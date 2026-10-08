@@ -1,0 +1,15 @@
+{
+  "source": "text",
+  "pages": [[12, 139]],
+  "skip_pages": [[26, 29], [40, 43], [54, 55], [57, 59], [78, 81], [96, 97], [99, 101], [118, 121], [133, 134], [136, 138]],
+  "label_regex": "^(\\d{1,2})$",
+  "text_size": [14.0, 14.6],
+  "body": [45, 715],
+  "columns":      [{"x": [157, 575], "label_x": [205, 216]}],
+  "columns_even": [{"x": [138, 556], "label_x": [185, 196]}],
+  "top_pad": 14,
+  "bot_pad": 6,
+  "gap_stop": 40,
+  "groups": false,
+  "drop_outliers": false
+}

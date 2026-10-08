@@ -1,0 +1,21 @@
+{
+  "source": "ocr",
+  "note": "구간별 4번 추출 후 merge.py 로 합침. 각 구간 설정은 layout_main/p137/mock/linked.json. label_min_h 는 extract_minh.py 우회용(12pt 미만 OCR 조각은 번호 아님).",
+  "segments": [
+    {"name": "본문(STEP1~3 유형·서술형·일등급) 0001~1895", "file": "layout_main.json", "pages": [[10, 327]], "skip_pages": [121, 137, [214, 215]],
+     "label_regex": "^([01]\\d{3})(?!\\d)", "body": [55, 790],
+     "columns": [{"x": [40, 312], "label_x": [40, 72]}, {"x": [316, 588], "label_x": [316, 348]}]},
+    {"name": "137쪽(기울어진 스캔) 0766~0771", "file": "layout_p137.json", "pages": [[137, 137]],
+     "label_regex": "^([01]\\d{3})(?!\\d)", "body": [55, 790],
+     "columns": [{"x": [30, 302], "label_x": [34, 60]}, {"x": [304, 582], "label_x": [308, 336]}]},
+    {"name": "FINAL TEST 모의평가 8회 01~25", "file": "layout_mock.json", "pages": [[331, 350], [353, 372]],
+     "label_regex": "^(\\d{2})(?!\\d)", "body": [55, 790],
+     "columns": [{"x": [42, 318], "label_x": [45, 70]}, {"x": [321, 588], "label_x": [319, 345]}]},
+    {"name": "내신연계문제 001~918", "file": "layout_linked.json", "pages": [[387, 560]], "skip_pages": [[451, 452], [500, 501]],
+     "label_regex": "^(\\d{3})(?!\\d)", "body": [45, 785],
+     "columns": [{"x": [42, 318], "label_x": [48, 70]}, {"x": [321, 602], "label_x": [322, 345]}]}
+  ],
+  "top_pad": 6,
+  "bot_pad": 6,
+  "gap_stop": 30
+}

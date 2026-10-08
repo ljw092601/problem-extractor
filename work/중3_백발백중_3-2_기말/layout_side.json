@@ -1,0 +1,42 @@
+{
+  "source": "ocr",
+  "pages": [[6, 7], [24, 25], [42, 43], [70, 71]],
+  "label_regex": "^(NOLABEL)$",
+  "group_regex": "^(NOGROUP)(x)$",
+  "rescue": false,
+  "ocr_dpi": [100],
+  "body": [70, 790],
+  "columns": [
+    {"x": [416, 580], "label_x": [416, 430]}
+  ],
+  "columns_even": [
+    {"x": [430, 582], "label_x": [430, 444]}
+  ],
+  "top_pad": 5,
+  "bot_pad": 8,
+  "gap_stop": 60,
+  "drop_outliers": false,
+  "manual_labels": [
+    {"page": 6, "col": 0, "y": 152, "num": 1},
+    {"page": 6, "col": 0, "y": 372, "num": 2},
+    {"page": 6, "col": 0, "y": 592, "num": 3},
+    {"page": 7, "col": 0, "y": 81, "num": 4},
+    {"page": 7, "col": 0, "y": 329, "num": 5},
+    {"page": 7, "col": 0, "y": 587, "num": 6},
+    {"page": 24, "col": 0, "y": 153, "num": 1},
+    {"page": 24, "col": 0, "y": 377, "num": 2},
+    {"page": 24, "col": 0, "y": 589, "num": 3},
+    {"page": 25, "col": 0, "y": 81, "num": 4},
+    {"page": 25, "col": 0, "y": 557, "num": 5},
+    {"page": 42, "col": 0, "y": 151, "num": 1},
+    {"page": 42, "col": 0, "y": 377, "num": 2},
+    {"page": 42, "col": 0, "y": 634, "num": 3},
+    {"page": 43, "col": 0, "y": 80, "num": 4},
+    {"page": 43, "col": 0, "y": 343, "num": 5},
+    {"page": 43, "col": 0, "y": 651, "num": 6},
+    {"page": 70, "col": 0, "y": 152, "num": 1},
+    {"page": 70, "col": 0, "y": 455, "num": 2},
+    {"page": 71, "col": 0, "y": 78, "num": 3},
+    {"page": 71, "col": 0, "y": 425, "num": 4}
+  ]
+}

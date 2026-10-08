@@ -1,0 +1,13 @@
+{
+  "source": "text",
+  "pages": [[3, 66]],
+  "label_regex": "^(\\d{3})$",
+  "text_size": [19, 21],
+  "body": [45, 782],
+  "columns": [{"x": [50, 316], "label_x": [52, 62]}, {"x": [322, 590], "label_x": [325, 335]}],
+  "renumber_pages": [3, 14, 32, 50],
+  "bottom_fix": [{"page": 21, "num": 105, "y1": 796}],
+  "top_pad": 4,
+  "bot_pad": 12,
+  "gap_stop": 40
+}

@@ -1,0 +1,8 @@
+[
+  {"id": "u01", "title": "Ⅰ. 함수의 극한과 연속 (핵심문제 SET 1~6)", "group": "핵심문제", "start": {"page": 16, "column": "L", "y": 0}},
+  {"id": "u02", "title": "Ⅱ. 미분 (핵심문제 SET 7~12)", "group": "핵심문제", "start": {"page": 54, "column": "L", "y": 0}},
+  {"id": "u03", "title": "Ⅲ. 적분 (핵심문제 SET 13~18)", "group": "핵심문제", "start": {"page": 88, "column": "L", "y": 0}},
+  {"id": "u04", "title": "Ⅰ. 함수의 극한과 연속 (짝기출 SET 1~6)", "group": "부록 짝기출", "start": {"page": 114, "column": "L", "y": 0}},
+  {"id": "u05", "title": "Ⅱ. 미분 (짝기출 SET 7~12)", "group": "부록 짝기출", "start": {"page": 126, "column": "L", "y": 0}},
+  {"id": "u06", "title": "Ⅲ. 적분 (짝기출 SET 13~18)", "group": "부록 짝기출", "start": {"page": 138, "column": "L", "y": 0}}
+]

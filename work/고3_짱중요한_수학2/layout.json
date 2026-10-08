@@ -1,0 +1,15 @@
+{
+  "source": "ocr",
+  "pages": [[9, 88]],
+  "skip_pages": [12, 16, 22, 28, 32, 36, 42, 48, 52, 58, 63, 64, 70, 76, 82, 88],
+  "label_regex": "^(\\d{2})$",
+  "label_min_h": 11,
+  "body": [58, 800],
+  "columns": [{"x": [40, 307], "label_x": [45, 58]}, {"x": [314, 590], "label_x": [316, 331]}],
+  "top_pad": 8,
+  "bot_pad": 10,
+  "gap_stop": 60,
+  "ocr_dpi": [200, 240],
+  "group_gap_stop": 160,
+  "manual_labels": [{"page": 78, "col": 1, "y": 257, "num": 11}, {"page": 79, "col": 1, "y": 613, "num": 19}]
+}

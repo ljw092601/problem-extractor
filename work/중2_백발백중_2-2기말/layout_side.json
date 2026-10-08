@@ -1,0 +1,51 @@
+{
+ "source": "text",
+ "pages": [
+  [
+   6,
+   7
+  ],
+  [
+   32,
+   33
+  ],
+  [
+   52,
+   53
+  ],
+  [
+   74,
+   75
+  ],
+  [
+   96,
+   97
+  ]
+ ],
+ "label_regex": "^(\\d{1,2})$",
+ "text_size": [
+  9.9,
+  10.1
+ ],
+ "body": [
+  64,
+  796
+ ],
+ "columns": [
+  {
+   "x": [
+    436,
+    592
+   ],
+   "label_x": [
+    440,
+    447
+   ]
+  }
+ ],
+ "top_pad": 5,
+ "bot_pad": 18,
+ "gap_stop": 40,
+ "drop_outliers": false,
+ "groups": false
+}

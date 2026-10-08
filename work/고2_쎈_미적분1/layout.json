@@ -1,0 +1,22 @@
+{
+  "source": "ocr",
+  "pages": [[9, 158]],
+  "skip_pages": [118],
+  "label_regex": "^((?:0\\d|1[0-3])\\d{2})(?![\\d\\-—.,])",
+  "body": [40, 792],
+  "columns":      [{"x": [22, 280], "label_x": [24, 45]},  {"x": [287, 548], "label_x": [286, 304]}],
+  "columns_even": [{"x": [55, 310], "label_x": [56, 80]},  {"x": [317, 578], "label_x": [320, 345]}],
+  "manual_labels": [
+    {"page": 18, "col": 1, "y": 636, "num": 90},
+    {"page": 67, "col": 0, "y": 273, "num": 402},
+    {"page": 87, "col": 0, "y": 55, "num": 534},
+    {"page": 151, "col": 1, "y": 555, "num": 1037},
+    {"page": 70, "col": 0, "y": 575, "num": 423},
+    {"page": 155, "col": 1, "y": 424, "num": 1058},
+    {"page": 157, "col": 0, "y": 277, "num": 1066}
+  ],
+  "manual_groups": [{"page": 9, "col": 0, "y": 530, "range": [9, 10]}, {"page": 45, "col": 0, "y": 94, "range": [237, 239]}],
+  "top_pad": 16,
+  "bot_pad": 14,
+  "gap_stop": 45
+}

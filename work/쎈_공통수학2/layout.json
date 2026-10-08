@@ -1,0 +1,18 @@
+{
+  "source": "ocr",
+  "pages": [[9, 199]],
+  "label_regex": "^(?!0118)((?:0\\d|1[0-3])\\d{2})(?![\\d\\-—.,])",
+  "body": [50, 800],
+  "columns":      [{"x": [28, 291], "label_x": [30, 55]},  {"x": [296, 556], "label_x": [297, 322]}],
+  "columns_even": [{"x": [44, 303], "label_x": [45, 68]},  {"x": [311, 575], "label_x": [310, 335]}],
+  "manual_labels": [
+    {"page": 63, "col": 1, "y": 488, "num": 368},
+    {"page": 181, "col": 1, "y": 120, "num": 1197}
+  ],
+  "manual_groups": [
+    {"page": 25, "col": 1, "y": 50, "range": [110, 111]}
+  ],
+  "top_pad": 16,
+  "bot_pad": 6,
+  "gap_stop": 45
+}

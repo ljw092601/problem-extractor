@@ -1,0 +1,15 @@
+[
+  {"id": "u1",  "title": "1. 순열과 조합",            "group": "Ⅰ. 경우의 수", "start": {"page": 10,  "column": "L", "y": 0}},
+  {"id": "u2",  "title": "Ⅰ 대단원 학습 평가",        "group": "Ⅰ. 경우의 수", "start": {"page": 28,  "column": "L", "y": 0}},
+  {"id": "u3",  "title": "1. 확률의 뜻과 활용",       "group": "Ⅱ. 확률",      "start": {"page": 34,  "column": "L", "y": 0}},
+  {"id": "u4",  "title": "2. 조건부확률",             "group": "Ⅱ. 확률",      "start": {"page": 50,  "column": "L", "y": 0}},
+  {"id": "u5",  "title": "Ⅱ 대단원 학습 평가",        "group": "Ⅱ. 확률",      "start": {"page": 64,  "column": "L", "y": 0}},
+  {"id": "u6",  "title": "1. 확률분포",               "group": "Ⅲ. 통계",      "start": {"page": 70,  "column": "L", "y": 0}},
+  {"id": "u7",  "title": "2. 통계적 추정",            "group": "Ⅲ. 통계",      "start": {"page": 102, "column": "L", "y": 0}},
+  {"id": "u8",  "title": "Ⅲ 대단원 학습 평가",        "group": "Ⅲ. 통계",      "start": {"page": 124, "column": "L", "y": 0}},
+  {"id": "u9",  "title": "익힘책 Ⅰ-1. 순열과 조합",    "group": "스스로 공부하는 수학 익힘책", "start": {"page": 132, "column": "L", "y": 0}},
+  {"id": "u10", "title": "익힘책 Ⅱ-1. 확률의 뜻과 활용", "group": "스스로 공부하는 수학 익힘책", "start": {"page": 134, "column": "L", "y": 0}},
+  {"id": "u11", "title": "익힘책 Ⅱ-2. 조건부확률",     "group": "스스로 공부하는 수학 익힘책", "start": {"page": 136, "column": "L", "y": 0}},
+  {"id": "u12", "title": "익힘책 Ⅲ-1. 확률분포",       "group": "스스로 공부하는 수학 익힘책", "start": {"page": 138, "column": "L", "y": 0}},
+  {"id": "u13", "title": "익힘책 Ⅲ-2. 통계적 추정",    "group": "스스로 공부하는 수학 익힘책", "start": {"page": 140, "column": "L", "y": 0}}
+]

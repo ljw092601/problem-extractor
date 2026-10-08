@@ -1,0 +1,14 @@
+{
+  "source": "text",
+  "pages": [[8, 169]],
+  "label_regex": "^(\\d{2})$",
+  "text_size": [13.5, 19.5],
+  "body": [50, 795],
+  "columns":      [{"x": [58, 310], "label_x": [66, 71]}, {"x": [315, 550], "label_x": [321, 326]}],
+  "columns_even": [{"x": [52, 304], "label_x": [60, 65]}, {"x": [309, 560], "label_x": [315, 320]}],
+  "top_pad": 6,
+  "bot_pad": 10,
+  "gap_stop": 55,
+  "group_gap_stop": 120,
+  "drop_outliers": false
+}

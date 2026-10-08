@@ -1,0 +1,16 @@
+[
+  {"id": "u1", "title": "01 제곱근의 뜻과 성질", "group": "Ⅰ. 실수와 그 연산", "start": {"page": 4, "column": "L", "y": 0}},
+  {"id": "u2", "title": "02 무리수와 실수", "group": "Ⅰ. 실수와 그 연산", "start": {"page": 16, "column": "L", "y": 0}},
+  {"id": "u3", "title": "01 근호를 포함한 식의 계산", "group": "Ⅰ. 실수와 그 연산", "start": {"page": 24, "column": "L", "y": 0}},
+  {"id": "u4", "title": "01 다항식의 인수분해", "group": "Ⅱ. 인수분해와 이차방정식", "start": {"page": 36, "column": "L", "y": 0}},
+  {"id": "u5", "title": "02 여러 가지 인수분해 공식", "group": "Ⅱ. 인수분해와 이차방정식", "start": {"page": 40, "column": "L", "y": 0}},
+  {"id": "u6", "title": "01 이차방정식과 그 해", "group": "Ⅱ. 인수분해와 이차방정식", "start": {"page": 54, "column": "L", "y": 0}},
+  {"id": "u7", "title": "02 이차방정식의 풀이 (1)", "group": "Ⅱ. 인수분해와 이차방정식", "start": {"page": 55, "column": "L", "y": 0}},
+  {"id": "u8", "title": "03 이차방정식의 풀이 (2)", "group": "Ⅱ. 인수분해와 이차방정식", "start": {"page": 64, "column": "L", "y": 0}},
+  {"id": "u9", "title": "04 이차방정식의 활용", "group": "Ⅱ. 인수분해와 이차방정식", "start": {"page": 68, "column": "L", "y": 0}},
+  {"id": "u10", "title": "01 이차함수의 뜻", "group": "Ⅲ. 이차함수", "start": {"page": 74, "column": "L", "y": 0}},
+  {"id": "u11", "title": "02 이차함수 y=ax²의 그래프", "group": "Ⅲ. 이차함수", "start": {"page": 77, "column": "L", "y": 0}},
+  {"id": "u12", "title": "03 이차함수 y=a(x-p)²+q의 그래프", "group": "Ⅲ. 이차함수", "start": {"page": 82, "column": "L", "y": 0}},
+  {"id": "u13", "title": "01 이차함수 y=ax²+bx+c의 그래프", "group": "Ⅲ. 이차함수", "start": {"page": 94, "column": "L", "y": 0}},
+  {"id": "u14", "title": "02 이차함수의 최댓값과 최솟값", "group": "Ⅲ. 이차함수", "start": {"page": 97, "column": "L", "y": 0}}
+]

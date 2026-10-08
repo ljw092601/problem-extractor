@@ -1,0 +1,29 @@
+# -*- coding: utf-8 -*-
+"""final/problems.json + p118/problems.json → problems.json (수작업 보정). 이 폴더 안에서만 쓰는 보조 스크립트."""
+import json, os
+H = r'C:\Users\ljw09\Desktop\promblem_area\work\고2_쎈_미적분1'
+main = json.load(open(os.path.join(H, 'final', 'problems.json'), encoding='utf-8'))
+p118 = json.load(open(os.path.join(H, 'p118', 'problems.json'), encoding='utf-8'))['problems']
+
+# 아래로 딸려 온 소단원/유형 제목 띠 잘라내기 (라벨 → 새 아래끝 y)
+BOTTOM = {'0013~0014': 293, '0105': 115, '0382~0386': 354, '0500~0502': 435, '0515~0516': 492,
+          '0882': 138, '0913': 349, '0925': 401,
+          # 도구가 너무 일찍 끊은 문제 (아래 늘리기)
+          '0616': 325, '0715': 703, '1064': 735, '1069': 716}
+
+probs = []
+for p in main['problems']:
+    probs.append(p)
+# 118쪽 조각을 쪽 순서에 맞게 끼우기
+idx = next(i for i, p in enumerate(probs) if p['page'] > 118)
+probs[idx:idx] = p118
+
+for p in probs:
+    b = p['bbox']
+    if p['label'] in BOTTOM:
+        b[3] = BOTTOM[p['label']]
+    if b[1] < 47:          # 맨 위 머리말('정답 및 풀이 ○쪽') 조각 빼기
+        b[1] = 47
+main['problems'] = probs
+json.dump(main, open(os.path.join(H, 'problems.json'), 'w', encoding='utf-8'), ensure_ascii=False, indent=1)
+print(len(probs), 'problems')

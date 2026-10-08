@@ -1,0 +1,27 @@
+{
+  "source": "ocr",
+  "pages": [[2, 37]],
+  "label_regex": "^(\\d{1,2})$",
+  "label_min_h": 11.5,
+  "body": [30, 765],
+  "columns":      [{"x": [30, 282], "label_x": [33, 50]}, {"x": [289, 550], "label_x": [296, 316]}],
+  "columns_even": [{"x": [24, 277], "label_x": [27, 45]}, {"x": [284, 545], "label_x": [290, 310]}],
+  "top_pad": 12,
+  "bot_pad": 8,
+  "gap_stop": 40,
+  "drop_outliers": false,
+  "manual_labels": [
+    {"page": 3, "col": 0, "y": 267.5, "num": 8},
+    {"page": 3, "col": 1, "y": 41.2, "num": 10},
+    {"page": 9, "col": 1, "y": 63.0, "num": 20},
+    {"page": 11, "col": 1, "y": 39.0, "num": 10},
+    {"page": 15, "col": 1, "y": 39.0, "num": 10},
+    {"page": 27, "col": 1, "y": 39.0, "num": 10},
+    {"page": 30, "col": 0, "y": 327.2, "num": 2},
+    {"page": 30, "col": 0, "y": 518.2, "num": 3},
+    {"page": 30, "col": 1, "y": 113.8, "num": 4},
+    {"page": 30, "col": 1, "y": 354.2, "num": 5},
+    {"page": 31, "col": 1, "y": 39.0, "num": 10},
+    {"page": 35, "col": 1, "y": 39.0, "num": 10}
+  ]
+}

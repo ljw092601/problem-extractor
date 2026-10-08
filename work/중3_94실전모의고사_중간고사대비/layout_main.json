@@ -1,0 +1,11 @@
+{
+  "source": "ocr",
+  "label_regex": "^(\\d{2})$",
+  "label_min_h": 11.2,
+  "body": [70, 782],
+  "columns": [{"x": [18, 284], "label_x": [20, 42]}, {"x": [289, 570], "label_x": [289, 314]}],
+  "drop_outliers": false,
+  "top_pad": 6,
+  "bot_pad": 12,
+  "gap_stop": 45
+}

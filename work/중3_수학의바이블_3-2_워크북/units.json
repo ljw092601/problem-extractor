@@ -1,0 +1,12 @@
+[
+  {"id": "u01", "title": "복습 Ⅰ-1 삼각비", "group": "배운대로 복습하기", "start": {"page": 2, "column": "L", "y": 0}},
+  {"id": "u02", "title": "복습 Ⅰ-2 삼각비의 활용", "group": "배운대로 복습하기", "start": {"page": 4, "column": "L", "y": 0}},
+  {"id": "u03", "title": "복습 Ⅱ-1 원과 직선", "group": "배운대로 복습하기", "start": {"page": 6, "column": "L", "y": 0}},
+  {"id": "u04", "title": "복습 Ⅱ-2 원주각", "group": "배운대로 복습하기", "start": {"page": 8, "column": "L", "y": 0}},
+  {"id": "u05", "title": "복습 Ⅲ-1 대푯값, 산포도, 상관관계", "group": "배운대로 복습하기", "start": {"page": 12, "column": "L", "y": 0}},
+  {"id": "u06", "title": "서술형 Ⅰ-1 삼각비", "group": "서술형 훈련하기", "start": {"page": 16, "column": "L", "y": 0}},
+  {"id": "u07", "title": "서술형 Ⅰ-2 삼각비의 활용", "group": "서술형 훈련하기", "start": {"page": 21, "column": "L", "y": 0}},
+  {"id": "u08", "title": "서술형 Ⅱ-1 원과 직선", "group": "서술형 훈련하기", "start": {"page": 26, "column": "L", "y": 0}},
+  {"id": "u09", "title": "서술형 Ⅱ-2 원주각", "group": "서술형 훈련하기", "start": {"page": 32, "column": "L", "y": 0}},
+  {"id": "u10", "title": "서술형 Ⅲ-1 대푯값, 산포도, 상관관계", "group": "서술형 훈련하기", "start": {"page": 36, "column": "L", "y": 0}}
+]

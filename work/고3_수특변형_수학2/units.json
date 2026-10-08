@@ -1,0 +1,8 @@
+[
+  {"id": "u1", "title": "1 함수의 극한", "group": "수학Ⅱ 수능특강 변형", "start": {"page": 1, "column": "L", "y": 0}},
+  {"id": "u2", "title": "2 함수의 연속", "group": "수학Ⅱ 수능특강 변형", "start": {"page": 2, "column": "L", "y": 0}},
+  {"id": "u3", "title": "3 미분계수와 도함수", "group": "수학Ⅱ 수능특강 변형", "start": {"page": 2, "column": "R", "y": 400}},
+  {"id": "u4", "title": "4 도함수의 활용 (1)", "group": "수학Ⅱ 수능특강 변형", "start": {"page": 3, "column": "R", "y": 400}},
+  {"id": "u5", "title": "Level 2", "group": "수학Ⅱ 수능특강 변형", "start": {"page": 4, "column": "R", "y": 400}},
+  {"id": "u6", "title": "Level 3", "group": "수학Ⅱ 수능특강 변형", "start": {"page": 6, "column": "L", "y": 400}}
+]

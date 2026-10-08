@@ -1,0 +1,17 @@
+{
+  "source": "ocr",
+  "pages": [[9, 207]],
+  "label_regex": "^((?:0\\d|1[0-3])\\d{2})(?![\\d\\-,])",
+  "label_min_h": 10.7,
+  "body": [50, 786],
+  "columns":      [{"x": [36, 300], "label_x": [42, 62]},  {"x": [304, 567], "label_x": [305, 325]}],
+  "columns_even": [{"x": [44, 306], "label_x": [52, 72]},  {"x": [312, 580], "label_x": [316, 336]}],
+  "manual_labels": [
+    {"page": 133, "col": 1, "y": 321, "num": 841},
+    {"page": 177, "col": 1, "y": 300, "num": 1111},
+    {"page": 183, "col": 1, "y": 436, "num": 1144}
+  ],
+  "top_pad": 16,
+  "bot_pad": 6,
+  "gap_stop": 45
+}

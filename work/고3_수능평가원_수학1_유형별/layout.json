@@ -1,0 +1,11 @@
+{
+  "source": "text",
+  "pages": [[3, 155]],
+  "label_regex": "^(\\d{1,3})$",
+  "text_size": [14, 15.5],
+  "body": [46, 802],
+  "columns": [{"x": [36, 293], "label_x": [39, 44]}, {"x": [301, 558], "label_x": [304, 309]}],
+  "top_pad": 5,
+  "bot_pad": 6,
+  "gap_stop": 40
+}

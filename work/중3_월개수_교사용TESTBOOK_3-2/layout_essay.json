@@ -1,0 +1,16 @@
+{
+  "source": "ocr",
+  "pages": [[50, 63]],
+  "label_regex": "^(\\d{1,2})$",
+  "label_min_h": 12,
+  "drop_outliers": false,
+  "body": [65, 788],
+  "columns": [{"x": [40, 303], "label_x": [45, 74]}, {"x": [310, 568], "label_x": [315, 346]}],
+  "top_pad": 8,
+  "bot_pad": 6,
+  "gap_stop": 300,
+  "group_gap_stop": 300,
+  "manual_labels": [
+    {"page": 53, "col": 0, "y": 76, "num": 1}
+  ]
+}

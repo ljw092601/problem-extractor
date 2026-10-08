@@ -1,0 +1,34 @@
+{
+  "source": "ocr",
+  "pages": [[99, 99]],
+  "label_regex": "^(NOLABEL)$",
+  "label_min_h": 12,
+  "ocr_dpi": [100],
+  "body": [60, 790],
+  "columns": [
+    {"x": [28, 293], "label_x": [28, 50]},
+    {"x": [306, 580], "label_x": [302, 328]}
+  ],
+  "columns_even": [
+    {"x": [44, 307], "label_x": [44, 68]},
+    {"x": [318, 592], "label_x": [318, 342]}
+  ],
+  "top_pad": 13,
+  "bot_pad": 6,
+  "gap_stop": 62,
+  "group_gap_stop": 160,
+  "drop_outliers": false,
+  "group_regex": "^(NOGROUP)(x)$",
+  "rescue": false,
+  "manual_groups": [
+    
+  ],
+  "manual_labels": [
+    {"page": 99, "col": 0, "y": 63, "num": 20},
+    {"page": 99, "col": 0, "y": 346, "num": 21},
+    {"page": 99, "col": 0, "y": 619, "num": 22},
+    {"page": 99, "col": 1, "y": 63, "num": 23},
+    {"page": 99, "col": 1, "y": 278, "num": 24},
+    {"page": 99, "col": 1, "y": 536, "num": 25}
+  ]
+}

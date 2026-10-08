@@ -1,0 +1,317 @@
+{
+ "pdf": "개플유 교사용자료(중간대비) 중3.PDF",
+ "problems": [
+  {
+   "num": 1,
+   "label": "1",
+   "page": 1,
+   "pdf_page": 0,
+   "column": "L",
+   "bbox": [
+    44,
+    95.6,
+    298,
+    212.6
+   ]
+  },
+  {
+   "num": 2,
+   "label": "2",
+   "page": 1,
+   "pdf_page": 0,
+   "column": "L",
+   "bbox": [
+    44,
+    295.7,
+    298,
+    382.6
+   ]
+  },
+  {
+   "num": 3,
+   "label": "3",
+   "page": 1,
+   "pdf_page": 0,
+   "column": "L",
+   "bbox": [
+    44,
+    464.2,
+    298,
+    538.8
+   ]
+  },
+  {
+   "num": 4,
+   "label": "4",
+   "page": 1,
+   "pdf_page": 0,
+   "column": "L",
+   "bbox": [
+    44,
+    622.6,
+    298,
+    748
+   ]
+  },
+  {
+   "num": 5,
+   "label": "5",
+   "page": 1,
+   "pdf_page": 0,
+   "column": "R",
+   "bbox": [
+    299,
+    96.0,
+    560,
+    178.1
+   ]
+  },
+  {
+   "num": 6,
+   "label": "6",
+   "page": 1,
+   "pdf_page": 0,
+   "column": "R",
+   "bbox": [
+    299,
+    254.9,
+    560,
+    316.3
+   ]
+  },
+  {
+   "num": 7,
+   "label": "7",
+   "page": 1,
+   "pdf_page": 0,
+   "column": "R",
+   "bbox": [
+    299,
+    393.6,
+    560,
+    469.0
+   ]
+  },
+  {
+   "num": 8,
+   "label": "8",
+   "page": 1,
+   "pdf_page": 0,
+   "column": "R",
+   "bbox": [
+    299,
+    545.8,
+    560,
+    744.0
+   ]
+  },
+  {
+   "num": 1,
+   "label": "1",
+   "page": 2,
+   "pdf_page": 1,
+   "column": "L",
+   "bbox": [
+    28,
+    96.0,
+    283,
+    171.6
+   ]
+  },
+  {
+   "num": 2,
+   "label": "2",
+   "page": 2,
+   "pdf_page": 1,
+   "column": "L",
+   "bbox": [
+    28,
+    284.7,
+    283,
+    358.8
+   ]
+  },
+  {
+   "num": 3,
+   "label": "3",
+   "page": 2,
+   "pdf_page": 1,
+   "column": "L",
+   "bbox": [
+    28,
+    471.4,
+    283,
+    565.0
+   ]
+  },
+  {
+   "num": 4,
+   "label": "4",
+   "page": 2,
+   "pdf_page": 1,
+   "column": "L",
+   "bbox": [
+    28,
+    659.6,
+    283,
+    748
+   ]
+  },
+  {
+   "num": 5,
+   "label": "5",
+   "page": 2,
+   "pdf_page": 1,
+   "column": "R",
+   "bbox": [
+    284,
+    96.0,
+    548,
+    170.9
+   ]
+  },
+  {
+   "num": 6,
+   "label": "6",
+   "page": 2,
+   "pdf_page": 1,
+   "column": "R",
+   "bbox": [
+    284,
+    246.8,
+    548,
+    361.7
+   ]
+  },
+  {
+   "num": 7,
+   "label": "7",
+   "page": 2,
+   "pdf_page": 1,
+   "column": "R",
+   "bbox": [
+    284,
+    397.5,
+    548,
+    579.8
+   ]
+  },
+  {
+   "num": 8,
+   "label": "8",
+   "page": 2,
+   "pdf_page": 1,
+   "column": "R",
+   "bbox": [
+    284,
+    659.1,
+    548,
+    748
+   ]
+  },
+  {
+   "num": 9,
+   "label": "9",
+   "page": 3,
+   "pdf_page": 2,
+   "column": "L",
+   "bbox": [
+    44,
+    55,
+    298,
+    163.0
+   ]
+  },
+  {
+   "num": 10,
+   "label": "10",
+   "page": 3,
+   "pdf_page": 2,
+   "column": "L",
+   "bbox": [
+    44,
+    276.0,
+    298,
+    418.6
+   ]
+  },
+  {
+   "num": 11,
+   "label": "11",
+   "page": 3,
+   "pdf_page": 2,
+   "column": "L",
+   "bbox": [
+    44,
+    526.6,
+    298,
+    584.9
+   ]
+  },
+  {
+   "num": 12,
+   "label": "12",
+   "page": 3,
+   "pdf_page": 2,
+   "column": "L",
+   "bbox": [
+    44,
+    693.6,
+    298,
+    746.9
+   ]
+  },
+  {
+   "num": 13,
+   "label": "13",
+   "page": 3,
+   "pdf_page": 2,
+   "column": "R",
+   "bbox": [
+    299,
+    55,
+    560,
+    179.5
+   ]
+  },
+  {
+   "num": 14,
+   "label": "14",
+   "page": 3,
+   "pdf_page": 2,
+   "column": "R",
+   "bbox": [
+    299,
+    295.2,
+    560,
+    369.6
+   ]
+  },
+  {
+   "num": 15,
+   "label": "15",
+   "page": 3,
+   "pdf_page": 2,
+   "column": "R",
+   "bbox": [
+    299,
+    486.8,
+    560,
+    561.8
+   ]
+  },
+  {
+   "num": 16,
+   "label": "16",
+   "page": 3,
+   "pdf_page": 2,
+   "column": "R",
+   "bbox": [
+    299,
+    678.8,
+    560,
+    748
+   ]
+  }
+ ]
+}

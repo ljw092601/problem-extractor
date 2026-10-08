@@ -1,0 +1,7 @@
+[
+  {"id": "u1", "title": "예제·유제", "group": "01 수열의 극한", "start": {"page": 1, "column": "L", "y": 0}},
+  {"id": "u2", "title": "Level 1 기초 연습", "group": "01 수열의 극한", "start": {"page": 5, "column": "L", "y": 85}},
+  {"id": "u3", "title": "Level 2 기본 연습", "group": "01 수열의 극한", "start": {"page": 7, "column": "R", "y": 85}},
+  {"id": "u4", "title": "Level 3 실력 완성", "group": "01 수열의 극한", "start": {"page": 10, "column": "R", "y": 85}},
+  {"id": "u5", "title": "대표 기출 문제", "group": "01 수열의 극한", "start": {"page": 12, "column": "L", "y": 0}}
+]

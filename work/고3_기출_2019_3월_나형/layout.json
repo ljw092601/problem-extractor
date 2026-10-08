@@ -1,0 +1,10 @@
+{
+  "source": "text",
+  "label_regex": "^(\\d{1,2})\\.$",
+  "text_size": [9, 10],
+  "body": [115, 772],
+  "columns": [{"x": [52, 294], "label_x": [58, 68]}, {"x": [300, 562], "label_x": [300, 310]}],
+  "top_pad": 12,
+  "bot_pad": 5,
+  "gap_stop": 50
+}

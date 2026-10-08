@@ -1,0 +1,10 @@
+[
+ {"id": "u1", "title": "01 다항식의 연산", "group": "Ⅰ. 다항식", "start": {"page": 6, "column": "L", "y": 0}},
+ {"id": "u2", "title": "02 나머지정리", "group": "Ⅰ. 다항식", "start": {"page": 16, "column": "L", "y": 0}},
+ {"id": "u3", "title": "03 인수분해", "group": "Ⅰ. 다항식", "start": {"page": 26, "column": "L", "y": 0}},
+ {"id": "u4", "title": "04 복소수와 이차방정식", "group": "Ⅱ. 방정식과 부등식", "start": {"page": 36, "column": "L", "y": 0}},
+ {"id": "u5", "title": "05 이차방정식과 이차함수", "group": "Ⅱ. 방정식과 부등식", "start": {"page": 50, "column": "L", "y": 0}},
+ {"id": "u6", "title": "06 여러 가지 방정식과 부등식", "group": "Ⅱ. 방정식과 부등식", "start": {"page": 64, "column": "L", "y": 0}},
+ {"id": "u7", "title": "07 경우의 수", "group": "Ⅲ. 경우의 수", "start": {"page": 78, "column": "L", "y": 0}},
+ {"id": "u8", "title": "08 행렬과 그 연산", "group": "Ⅳ. 행렬", "start": {"page": 92, "column": "L", "y": 0}}
+]

@@ -1,0 +1,12 @@
+{
+  "source": "ocr",
+  "pages": [[331, 350], [353, 372]],
+  "label_regex": "^(\\d{2})(?!\\d)",
+  "body": [55, 790],
+  "columns": [{"x": [42, 318], "label_x": [45, 70]}, {"x": [321, 588], "label_x": [319, 345]}],
+  "label_min_h": 12,
+  "manual_labels": [{"page": 345, "col": 1, "y": 66, "num": 25}],
+  "top_pad": 6,
+  "bot_pad": 6,
+  "gap_stop": 30
+}

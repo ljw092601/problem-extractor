@@ -1,0 +1,13 @@
+[
+ {"id": "u1", "group": "Ⅰ. 삼각비", "title": "01~02강 삼각비의 값", "start": {"page": 6, "column": "L", "y": 0}},
+ {"id": "u2", "group": "Ⅰ. 삼각비", "title": "03~04강 삼각비의 활용", "start": {"page": 16, "column": "L", "y": 0}},
+ {"id": "u3", "group": "Ⅱ. 원의 성질", "title": "05~06강 원의 현, 원의 접선", "start": {"page": 26, "column": "L", "y": 0}},
+ {"id": "u4", "group": "Ⅱ. 원의 성질", "title": "07강 원주각", "start": {"page": 36, "column": "L", "y": 0}},
+ {"id": "u5", "group": "Ⅱ. 원의 성질", "title": "08강 원주각의 활용", "start": {"page": 42, "column": "L", "y": 0}},
+ {"id": "u6", "group": "Ⅱ. 원의 성질", "title": "09강 접선과 현이 이루는 각", "start": {"page": 50, "column": "L", "y": 0}},
+ {"id": "u7", "group": "Ⅲ. 통계", "title": "10~11강 대푯값과 산포도", "start": {"page": 58, "column": "L", "y": 0}},
+ {"id": "u8", "group": "Ⅲ. 통계", "title": "12강 상관관계", "start": {"page": 68, "column": "L", "y": 0}},
+ {"id": "r1", "group": "다시 보는 핵심 문제", "title": "Ⅰ. 삼각비 (1~4강)", "start": {"page": 76, "column": "L", "y": 0}},
+ {"id": "r2", "group": "다시 보는 핵심 문제", "title": "Ⅱ. 원의 성질 (5~9강)", "start": {"page": 82, "column": "L", "y": 0}},
+ {"id": "r3", "group": "다시 보는 핵심 문제", "title": "Ⅲ. 통계 (10~12강)", "start": {"page": 91, "column": "L", "y": 0}}
+]

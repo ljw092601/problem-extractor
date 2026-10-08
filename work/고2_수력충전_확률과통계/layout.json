@@ -1,0 +1,110 @@
+{
+ "source": "ocr",
+ "pages": [
+  [
+   10,
+   206
+  ]
+ ],
+ "label_regex": "^(\\d{2})$",
+ "label_min_h": 11,
+ "group_regex": "^\\s*[\\[【{]\\s*(\\d{2})\\s*[~\\-–—−〜～]\\s*(\\d{2})",
+ "body": [
+  52,
+  772
+ ],
+ "columns": [
+  {
+   "x": [
+    55,
+    305
+   ],
+   "label_x": [
+    60,
+    69
+   ]
+  },
+  {
+   "x": [
+    311,
+    565
+   ],
+   "label_x": [
+    313,
+    322
+   ]
+  }
+ ],
+ "columns_even": [
+  {
+   "x": [
+    45,
+    297
+   ],
+   "label_x": [
+    52,
+    61
+   ]
+  },
+  {
+   "x": [
+    303,
+    557
+   ],
+   "label_x": [
+    305,
+    314
+   ]
+  }
+ ],
+ "manual_labels": [
+  {
+   "page": 34,
+   "col": 0,
+   "y": 452,
+   "num": 11
+  },
+  {
+   "page": 34,
+   "col": 0,
+   "y": 640,
+   "num": 12
+  },
+  {
+   "page": 34,
+   "col": 1,
+   "y": 452,
+   "num": 15
+  },
+  {
+   "page": 58,
+   "col": 1,
+   "y": 480,
+   "num": 3
+  },
+  {
+   "page": 116,
+   "col": 0,
+   "y": 130,
+   "num": 1
+  },
+  {
+   "page": 152,
+   "col": 0,
+   "y": 130,
+   "num": 1
+  },
+  {
+   "page": 176,
+   "col": 0,
+   "y": 412,
+   "num": 19
+  }
+ ],
+ "top_pad": 12,
+ "bot_pad": 12,
+ "gap_stop": 55,
+ "group_gap_stop": 200,
+ "drop_outliers": false,
+ "render_clean": true
+}

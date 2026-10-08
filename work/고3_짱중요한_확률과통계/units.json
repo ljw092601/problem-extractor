@@ -1,0 +1,17 @@
+[
+  {"id": "u01", "title": "유형01 중복순열과 원순열", "group": "I. 경우의 수", "start": {"page": 8, "column": "L", "y": 0}},
+  {"id": "u02", "title": "유형02 같은 것이 있는 순열", "group": "I. 경우의 수", "start": {"page": 14, "column": "L", "y": 0}},
+  {"id": "u03", "title": "유형03 항의 계수 구하기", "group": "I. 경우의 수", "start": {"page": 18, "column": "L", "y": 0}},
+  {"id": "u04", "title": "유형04 중복조합", "group": "I. 경우의 수", "start": {"page": 24, "column": "L", "y": 0}},
+  {"id": "u05", "title": "유형05 순열, 조합의 내적 활용", "group": "I. 경우의 수", "start": {"page": 30, "column": "L", "y": 0}},
+  {"id": "u06", "title": "유형06 확률 구하기(1)", "group": "II. 확률", "start": {"page": 36, "column": "L", "y": 0}},
+  {"id": "u07", "title": "유형07 확률 구하기(2)", "group": "II. 확률", "start": {"page": 42, "column": "L", "y": 0}},
+  {"id": "u08", "title": "유형08 조건부확률", "group": "II. 확률", "start": {"page": 48, "column": "L", "y": 0}},
+  {"id": "u09", "title": "유형09 독립시행의 확률", "group": "II. 확률", "start": {"page": 54, "column": "L", "y": 0}},
+  {"id": "u10", "title": "유형10 이산확률분포", "group": "III. 통계", "start": {"page": 60, "column": "L", "y": 0}},
+  {"id": "u11", "title": "유형11 이항분포", "group": "III. 통계", "start": {"page": 66, "column": "L", "y": 0}},
+  {"id": "u12", "title": "유형12 연속확률분포", "group": "III. 통계", "start": {"page": 72, "column": "L", "y": 0}},
+  {"id": "u13", "title": "유형13 정규분포", "group": "III. 통계", "start": {"page": 78, "column": "L", "y": 0}},
+  {"id": "u14", "title": "유형14 표본평균의 분포", "group": "III. 통계", "start": {"page": 84, "column": "L", "y": 0}},
+  {"id": "u15", "title": "유형15 신뢰구간", "group": "III. 통계", "start": {"page": 90, "column": "L", "y": 0}}
+]

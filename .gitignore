@@ -1,0 +1,30 @@
+# 파이썬 캐시
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# PyInstaller 산출물 (spec 파일만 올림)
+build/dist*/
+build/venv*/
+build/work*/
+build_log*.txt
+
+# 교재 원본·문서 산출물 (용량·저작권)
+*.pdf
+*.PDF
+*.docx
+*.hwpx
+*.hwp
+!수.hwp
+*.png
+*.zip
+
+# 로컬 교재 사본 (대응표 sources.json 만 올림)
+work/_src/*
+!work/_src/sources.json
+
+# 진단 로그·옛 프로토타입·테스트 자료
+work/diag/
+mirean1/
+_problem_imgs/
+테스트_자료폴더/

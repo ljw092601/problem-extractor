@@ -1,0 +1,17 @@
+{
+  "source": "ocr",
+  "pages": [[50, 51], [71, 73], [104, 104]],
+  "label_regex": "^(\\d{1,2})$",
+  "label_min_h": 12,
+  "groups": false,
+  "drop_outliers": false,
+  "manual_labels": [
+    {"page": 71, "col": 0, "y": 367, "num": 1}
+  ],
+  "body": [40, 762],
+  "columns":      [{"x": [143, 550], "label_x": [150, 168]}],
+  "columns_even": [{"x": [155, 560], "label_x": [162, 180]}],
+  "top_pad": 10,
+  "bot_pad": 8,
+  "gap_stop": 40
+}

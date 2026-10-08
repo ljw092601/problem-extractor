@@ -1,0 +1,12 @@
+[
+  {"id": "u01", "title": "중간고사 1회", "start": {"page": 3, "column": "L", "y": 0}},
+  {"id": "u02", "title": "중간고사 2회", "start": {"page": 8, "column": "L", "y": 0}},
+  {"id": "u03", "title": "중간고사 3회", "start": {"page": 13, "column": "L", "y": 0}},
+  {"id": "u04", "title": "중간고사 4회", "start": {"page": 18, "column": "L", "y": 0}},
+  {"id": "u05", "title": "중간고사 5회", "start": {"page": 23, "column": "L", "y": 0}},
+  {"id": "u06", "title": "중간고사 6회", "start": {"page": 28, "column": "L", "y": 0}},
+  {"id": "u07", "title": "중간고사 7회", "start": {"page": 33, "column": "L", "y": 0}},
+  {"id": "u08", "title": "중간고사 8회", "start": {"page": 38, "column": "L", "y": 0}},
+  {"id": "u09", "title": "중간고사 9회", "start": {"page": 43, "column": "L", "y": 0}},
+  {"id": "u10", "title": "중간고사 10회", "start": {"page": 48, "column": "L", "y": 0}}
+]

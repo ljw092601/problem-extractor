@@ -1,0 +1,42 @@
+{
+  "source": "ocr",
+  "pages": [[5, 8], [11, 14], [16, 19], [23, 26], [29, 32], [34, 37], [41, 44], [47, 50], [52, 55], [59, 62], [64, 67], [71, 74], [77, 80], [82, 85], [89, 92], [100, 103]],
+  "label_regex": "^(\\d{2})$",
+  "label_min_h": 10.5,
+  "body": [78, 740],
+  "columns":      [{"x": [50, 303], "label_x": [55, 72]}, {"x": [309, 576], "label_x": [308, 330]}],
+  "columns_even": [{"x": [36, 280], "label_x": [42, 58]}, {"x": [291, 572], "label_x": [295, 314]}],
+  "drop_outliers": false,
+  "manual_labels": [
+    {"page": 6, "col": 0, "y": 326, "num": 10},
+    {"page": 11, "col": 0, "y": 161, "num": 1},
+    {"page": 34, "col": 1, "y": 92, "num": 4},
+    {"page": 35, "col": 0, "y": 542, "num": 11},
+    {"page": 53, "col": 0, "y": 474, "num": 10},
+    {"page": 65, "col": 1, "y": 541, "num": 14},
+    {"page": 83, "col": 0, "y": 450, "num": 11},
+    {"page": 97, "col": 1, "y": 440, "num": 10},
+    {"page": 101, "col": 0, "y": 344, "num": 10},
+    {"page": 41, "col": 1, "y": 155, "num": 4}
+  ],
+  "drop_labels": [
+    {"page": 18, "num": 3},
+    {"page": 66, "num": 40},
+    {"page": 66, "num": 80},
+    {"page": 71, "num": 40},
+    {"page": 71, "num": 46},
+    {"page": 71, "num": 26},
+    {"page": 82, "num": 80},
+    {"page": 82, "num": 60},
+    {"page": 82, "num": 46},
+    {"page": 64, "num": 46}
+  ],
+  "manual_groups": [
+    {"page": 100, "col": 0, "y": 459, "range": [3, 4]},
+    {"page": 102, "col": 0, "y": 92, "range": [16, 19]}
+  ],
+  "top_pad": 6,
+  "bot_pad": 8,
+  "gap_stop": 45,
+  "group_gap_stop": 80
+}

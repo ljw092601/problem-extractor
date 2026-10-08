@@ -1,0 +1,16 @@
+{
+  "source": "ocr",
+  "pages": [[2, 56]],
+  "skip_pages": [39],
+  "label_regex": "^(0[2-5]\\d{2})(?![\\d\\-—.,A-Za-z])",
+  "body": [55, 798],
+  "columns":      [{"x": [18, 289], "label_x": [32, 50]},  {"x": [292, 553], "label_x": [294, 312]}],
+  "columns_even": [{"x": [40, 309], "label_x": [53, 72]},  {"x": [313, 578], "label_x": [315, 334]}],
+  "manual_labels": [
+    {"page": 31, "col": 1, "y": 580, "num": 449}
+  ],
+  "top_pad": 16,
+  "bot_pad": 6,
+  "gap_stop": 45,
+  "group_gap_stop": 140
+}

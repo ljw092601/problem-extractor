@@ -1,0 +1,64 @@
+{
+ "source": "ocr",
+ "pages": [
+  [
+   8,
+   190
+  ]
+ ],
+ "label_regex": "^Z(\\d)$",
+ "body": [
+  45,
+  798
+ ],
+ "columns": [
+  {
+   "x": [
+    52,
+    318
+   ],
+   "label_x": [
+    60,
+    80
+   ]
+  },
+  {
+   "x": [
+    327,
+    590
+   ],
+   "label_x": [
+    332,
+    352
+   ]
+  }
+ ],
+ "columns_even": [
+  {
+   "x": [
+    44,
+    310
+   ],
+   "label_x": [
+    52,
+    72
+   ]
+  },
+  {
+   "x": [
+    316,
+    582
+   ],
+   "label_x": [
+    324,
+    344
+   ]
+  }
+ ],
+ "top_pad": 16,
+ "bot_pad": 6,
+ "gap_stop": 45,
+ "group_gap_stop": 320,
+ "group_regex": "^Z(\\d)Z(\\d)$",
+ "drop_outliers": false
+}

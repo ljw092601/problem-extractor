@@ -1,0 +1,31 @@
+{
+  "source": "ocr",
+  "pages": [[2, 2], [5, 5], [7, 7], [10, 10]],
+  "label_regex": "^(NEVER\d)$",
+  "label_min_h": 10,
+  "body": [70, 782],
+  "columns": [{"x": [289, 570], "label_x": [328, 356]}],
+  "drop_outliers": false,
+  "groups": false,
+  "manual_labels": [
+    {"page": 2, "col": 0, "y": 114, "num": 1},
+    {"page": 2, "col": 0, "y": 300, "num": 2},
+    {"page": 2, "col": 0, "y": 504, "num": 3},
+    {"page": 2, "col": 0, "y": 660, "num": 4},
+    {"page": 5, "col": 0, "y": 114, "num": 1},
+    {"page": 5, "col": 0, "y": 294, "num": 2},
+    {"page": 5, "col": 0, "y": 474, "num": 3},
+    {"page": 5, "col": 0, "y": 648, "num": 4},
+    {"page": 7, "col": 0, "y": 114, "num": 1},
+    {"page": 7, "col": 0, "y": 336, "num": 2},
+    {"page": 7, "col": 0, "y": 522, "num": 3},
+    {"page": 7, "col": 0, "y": 696, "num": 4},
+    {"page": 10, "col": 0, "y": 114, "num": 1},
+    {"page": 10, "col": 0, "y": 276, "num": 2},
+    {"page": 10, "col": 0, "y": 444, "num": 3},
+    {"page": 10, "col": 0, "y": 678, "num": 4}
+  ],
+  "top_pad": 6,
+  "bot_pad": 12,
+  "gap_stop": 45
+}

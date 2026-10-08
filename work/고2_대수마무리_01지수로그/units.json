@@ -1,0 +1,21 @@
+[
+  {"id": "u01", "title": "지수와 로그", "group": "① YBM", "start": {"page": 1, "column": "L", "y": 0}},
+  {"id": "u02", "title": "지수함수와 로그함수", "group": "① YBM", "start": {"page": 5, "column": "L", "y": 0}},
+  {"id": "u03", "title": "대단원 마무리", "group": "① YBM", "start": {"page": 8, "column": "L", "y": 0}},
+  {"id": "u04", "title": "지수와 로그", "group": "② 동아출판", "start": {"page": 11, "column": "L", "y": 0}},
+  {"id": "u05", "title": "지수함수와 로그함수", "group": "② 동아출판", "start": {"page": 18, "column": "L", "y": 0}},
+  {"id": "u06", "title": "지수와 로그", "group": "③ 미래엔", "start": {"page": 25, "column": "L", "y": 0}},
+  {"id": "u07", "title": "지수함수와 로그함수", "group": "③ 미래엔", "start": {"page": 28, "column": "L", "y": 0}},
+  {"id": "u08", "title": "대단원 평가 문제", "group": "③ 미래엔", "start": {"page": 31, "column": "L", "y": 0}},
+  {"id": "u09", "title": "지수와 로그", "group": "④ 비상", "start": {"page": 35, "column": "L", "y": 0}},
+  {"id": "u10", "title": "지수함수와 로그함수", "group": "④ 비상", "start": {"page": 38, "column": "L", "y": 0}},
+  {"id": "u11", "title": "대단원 마무리", "group": "④ 비상", "start": {"page": 41, "column": "L", "y": 0}},
+  {"id": "u12", "title": "수학 익힘책 - 지수와 로그", "group": "④ 비상", "start": {"page": 44, "column": "L", "y": 0}},
+  {"id": "u13", "title": "수학 익힘책 - 지수함수와 로그함수", "group": "④ 비상", "start": {"page": 46, "column": "L", "y": 0}},
+  {"id": "u14", "title": "지수와 로그", "group": "⑤ 지학사", "start": {"page": 49, "column": "L", "y": 0}},
+  {"id": "u15", "title": "지수함수와 로그함수", "group": "⑤ 지학사", "start": {"page": 53, "column": "L", "y": 0}},
+  {"id": "u16", "title": "대단원 마무리", "group": "⑤ 지학사", "start": {"page": 56, "column": "L", "y": 0}},
+  {"id": "u17", "title": "지수와 로그", "group": "⑥ 천재(전)", "start": {"page": 61, "column": "L", "y": 0}},
+  {"id": "u18", "title": "지수함수와 로그함수", "group": "⑥ 천재(전)", "start": {"page": 63, "column": "L", "y": 0}},
+  {"id": "u19", "title": "대단원 마무리", "group": "⑥ 천재(전)", "start": {"page": 65, "column": "L", "y": 0}}
+]

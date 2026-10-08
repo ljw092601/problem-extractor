@@ -1,0 +1,51 @@
+{
+ "source": "text",
+ "label_regex": "^([1-9])$",
+ "text_size": [
+  11.5,
+  12.5
+ ],
+ "groups": false,
+ "drop_outliers": false,
+ "pages": [
+  [
+   3,
+   3
+  ],
+  [
+   22,
+   22
+  ]
+ ],
+ "body": [
+  560,
+  725
+ ],
+ "columns": [
+  {
+   "x": [
+    110,
+    548
+   ],
+   "label_x": [
+    117,
+    124
+   ]
+  }
+ ],
+ "columns_even": [
+  {
+   "x": [
+    127,
+    560
+   ],
+   "label_x": [
+    134,
+    141
+   ]
+  }
+ ],
+ "top_pad": 6,
+ "bot_pad": 6,
+ "gap_stop": 30
+}

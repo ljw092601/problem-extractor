@@ -1,0 +1,18 @@
+{
+ "source": "text",
+ "pages": [[2, 117]],
+ "skip_pages": [23, 63, [92, 93]],
+ "label_regex": "^(\\d{1,2})$",
+ "group_regex": "^\\s*[\\[【]\\s*(\\d{1,4})[\\s`]*[~∼〜\\-－—–][\\s`]*(\\d{1,4})",
+ "text_size": [15.5, 16.5],
+ "body": [70, 800],
+ "columns": [
+  {"x": [48, 306], "label_x": [53, 61]},
+  {"x": [318, 577], "label_x": [322, 358]}
+ ],
+ "top_pad": 6,
+ "bot_pad": 12,
+ "gap_stop": 34,
+ "group_gap_stop": 200,
+ "drop_outliers": false
+}

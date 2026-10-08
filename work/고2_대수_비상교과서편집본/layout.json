@@ -1,0 +1,18 @@
+{
+  "source": "text",
+  "pages": [[1, 58]],
+  "label_regex": "^(\\d{1,3})\\)$",
+  "text_size": [11.5, 12.2],
+  "body": [42.5, 796],
+  "columns": [{"x": [22, 298], "label_x": [26, 40]}, {"x": [303, 575], "label_x": [307, 318]}],
+  "top_pad": 4,
+  "bot_pad": 8,
+  "gap_stop": 200,
+  "manual_labels": [
+    {"page": 8, "col": 0, "y": 58, "num": 64},
+    {"page": 15, "col": 0, "y": 58, "num": 117},
+    {"page": 33, "col": 0, "y": 194, "num": 258},
+    {"page": 46, "col": 1, "y": 43, "num": 366},
+    {"page": 53, "col": 0, "y": 58, "num": 412}
+  ]
+}

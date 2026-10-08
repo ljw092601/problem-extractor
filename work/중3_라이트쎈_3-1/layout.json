@@ -1,0 +1,23 @@
+{
+  "source": "ocr",
+  "pages": [[10, 158]],
+  "label_regex": "^(?!0100$|0118$)(0\\d{3}|1[0-2]\\d\\d)$",
+  "body": [50, 780],
+  "columns":      [{"x": [22, 283], "label_x": [25, 40]},  {"x": [290, 556], "label_x": [291, 307]}],
+  "columns_even": [{"x": [43, 304], "label_x": [45, 60]},  {"x": [311, 578], "label_x": [311, 327]}],
+  "manual_labels": [
+    {"page": 18,  "col": 0, "y": 73,  "num": 100},
+    {"page": 20,  "col": 1, "y": 72,  "num": 118},
+    {"page": 32,  "col": 1, "y": 540, "num": 200},
+    {"page": 141, "col": 1, "y": 79,  "num": 1111}
+  ],
+  "manual_groups": [
+    {"page": 102, "col": 1, "y": 306, "range": [818, 822]},
+    {"page": 128, "col": 1, "y": 276, "range": [1006, 1008]}
+  ],
+  "drop_outliers": false,
+  "top_pad": 16,
+  "bot_pad": 10,
+  "gap_stop": 45,
+  "group_gap_stop": 110
+}

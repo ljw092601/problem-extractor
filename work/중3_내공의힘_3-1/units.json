@@ -1,0 +1,17 @@
+[
+ {"id": "u1", "group": "Ⅰ. 실수와 그 연산", "title": "01~02강 제곱근의 뜻과 성질", "start": {"page": 6, "column": "L", "y": 0}},
+ {"id": "u2", "group": "Ⅰ. 실수와 그 연산", "title": "03~04강 무리수와 실수, 실수의 대소 관계", "start": {"page": 16, "column": "L", "y": 0}},
+ {"id": "u3", "group": "Ⅰ. 실수와 그 연산", "title": "05~07강 근호를 포함한 식의 계산", "start": {"page": 26, "column": "L", "y": 0}},
+ {"id": "u4", "group": "Ⅱ. 식의 계산과 이차방정식", "title": "08~10강 곱셈 공식과 활용", "start": {"page": 38, "column": "L", "y": 0}},
+ {"id": "u5", "group": "Ⅱ. 식의 계산과 이차방정식", "title": "11강 인수분해의 뜻과 공식", "start": {"page": 50, "column": "L", "y": 0}},
+ {"id": "u6", "group": "Ⅱ. 식의 계산과 이차방정식", "title": "12~13강 여러 가지 인수분해와 활용", "start": {"page": 58, "column": "L", "y": 0}},
+ {"id": "u7", "group": "Ⅱ. 식의 계산과 이차방정식", "title": "14~15강 이차방정식의 뜻과 풀이 ⑴", "start": {"page": 66, "column": "L", "y": 0}},
+ {"id": "u8", "group": "Ⅱ. 식의 계산과 이차방정식", "title": "16강 이차방정식의 풀이 ⑵", "start": {"page": 76, "column": "L", "y": 0}},
+ {"id": "u9", "group": "Ⅱ. 식의 계산과 이차방정식", "title": "17강 이차방정식의 활용", "start": {"page": 84, "column": "L", "y": 0}},
+ {"id": "u10", "group": "Ⅲ. 이차함수", "title": "18강 이차함수 y=ax²의 그래프", "start": {"page": 90, "column": "L", "y": 0}},
+ {"id": "u11", "group": "Ⅲ. 이차함수", "title": "19~20강 이차함수 y=a(x-p)²+q의 그래프", "start": {"page": 94, "column": "L", "y": 0}},
+ {"id": "u12", "group": "Ⅲ. 이차함수", "title": "21~23강 이차함수 y=ax²+bx+c의 그래프와 식 구하기", "start": {"page": 104, "column": "L", "y": 0}},
+ {"id": "r1", "group": "다시 보는 핵심 문제", "title": "Ⅰ. 실수와 그 연산 (1~7강)", "start": {"page": 118, "column": "L", "y": 0}},
+ {"id": "r2", "group": "다시 보는 핵심 문제", "title": "Ⅱ. 식의 계산과 이차방정식 (8~17강)", "start": {"page": 127, "column": "L", "y": 0}},
+ {"id": "r3", "group": "다시 보는 핵심 문제", "title": "Ⅲ. 이차함수 (18~23강)", "start": {"page": 142, "column": "L", "y": 0}}
+]

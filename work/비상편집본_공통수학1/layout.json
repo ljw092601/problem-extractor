@@ -1,0 +1,18 @@
+{
+  "source": "text",
+  "pages": [[1, 126]],
+  "label_regex": "^(\\d{1,3})\\.$",
+  "text_size": [12.5, 14],
+  "body": [69, 766],
+  "columns": [{"x": [20, 285], "label_x": [22, 32]}, {"x": [292, 562], "label_x": [292, 302]}],
+  "top_pad": 6,
+  "bot_pad": 6,
+  "gap_stop": 45,
+  "group_gap_stop": 140,
+  "manual_groups": [
+    {"page": 57, "col": 1, "y": 150, "range": [199, 200]},
+    {"page": 74, "col": 1, "y": 150, "range": [261, 263]},
+    {"page": 97, "col": 1, "y": 150, "range": [345, 347]},
+    {"page": 118, "col": 1, "y": 150, "range": [417, 419]}
+  ]
+}

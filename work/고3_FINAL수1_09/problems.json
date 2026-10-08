@@ -1,0 +1,291 @@
+{
+ "pdf": "FINAL 수1(9).pdf",
+ "problems": [
+  {
+   "num": 1,
+   "label": "1.",
+   "page": 1,
+   "pdf_page": 0,
+   "column": "L",
+   "bbox": [
+    28,
+    87.9,
+    296,
+    206.2
+   ]
+  },
+  {
+   "num": 2,
+   "label": "2.",
+   "page": 1,
+   "pdf_page": 0,
+   "column": "L",
+   "bbox": [
+    28,
+    426.0,
+    296,
+    549.6
+   ]
+  },
+  {
+   "num": 3,
+   "label": "3.",
+   "page": 1,
+   "pdf_page": 0,
+   "column": "R",
+   "bbox": [
+    300,
+    87.9,
+    572,
+    127.0
+   ]
+  },
+  {
+   "num": 4,
+   "label": "4.",
+   "page": 1,
+   "pdf_page": 0,
+   "column": "R",
+   "bbox": [
+    300,
+    421.0,
+    572,
+    462.5
+   ]
+  },
+  {
+   "num": 5,
+   "label": "5.",
+   "page": 2,
+   "pdf_page": 1,
+   "column": "L",
+   "bbox": [
+    28,
+    87.9,
+    296,
+    201.8
+   ]
+  },
+  {
+   "num": 6,
+   "label": "6.",
+   "page": 2,
+   "pdf_page": 1,
+   "column": "L",
+   "bbox": [
+    28,
+    426.5,
+    296,
+    483.4
+   ]
+  },
+  {
+   "num": 7,
+   "label": "7.",
+   "page": 2,
+   "pdf_page": 1,
+   "column": "R",
+   "bbox": [
+    300,
+    87.9,
+    572,
+    160.8
+   ]
+  },
+  {
+   "num": 8,
+   "label": "8.",
+   "page": 2,
+   "pdf_page": 1,
+   "column": "R",
+   "bbox": [
+    300,
+    416.4,
+    572,
+    456.7
+   ]
+  },
+  {
+   "num": 9,
+   "label": "9.",
+   "page": 3,
+   "pdf_page": 2,
+   "column": "L",
+   "bbox": [
+    28,
+    87.9,
+    296,
+    127.0
+   ]
+  },
+  {
+   "num": 10,
+   "label": "10.",
+   "page": 3,
+   "pdf_page": 2,
+   "column": "L",
+   "bbox": [
+    28,
+    421.0,
+    296,
+    460.3
+   ]
+  },
+  {
+   "num": 11,
+   "label": "11.",
+   "page": 3,
+   "pdf_page": 2,
+   "column": "R",
+   "bbox": [
+    300,
+    87.9,
+    572,
+    171.6
+   ]
+  },
+  {
+   "num": 12,
+   "label": "12.",
+   "page": 3,
+   "pdf_page": 2,
+   "column": "R",
+   "bbox": [
+    300,
+    427.5,
+    572,
+    449.5
+   ]
+  },
+  {
+   "num": 13,
+   "label": "13.",
+   "page": 4,
+   "pdf_page": 3,
+   "column": "L",
+   "bbox": [
+    28,
+    87.9,
+    296,
+    183.8
+   ]
+  },
+  {
+   "num": 14,
+   "label": "14.",
+   "page": 4,
+   "pdf_page": 3,
+   "column": "L",
+   "bbox": [
+    28,
+    418.4,
+    296,
+    446.6
+   ]
+  },
+  {
+   "num": 15,
+   "label": "15.",
+   "page": 4,
+   "pdf_page": 3,
+   "column": "R",
+   "bbox": [
+    300,
+    93.9,
+    572,
+    122.6
+   ]
+  },
+  {
+   "num": 16,
+   "label": "16.",
+   "page": 4,
+   "pdf_page": 3,
+   "column": "R",
+   "bbox": [
+    300,
+    420.0,
+    572,
+    515.0
+   ]
+  },
+  {
+   "num": 17,
+   "label": "17.",
+   "page": 5,
+   "pdf_page": 4,
+   "column": "L",
+   "bbox": [
+    28,
+    87.9,
+    296,
+    145.0
+   ]
+  },
+  {
+   "num": 18,
+   "label": "18.",
+   "page": 5,
+   "pdf_page": 4,
+   "column": "L",
+   "bbox": [
+    28,
+    426.8,
+    296,
+    499.9
+   ]
+  },
+  {
+   "num": 19,
+   "label": "19.",
+   "page": 5,
+   "pdf_page": 4,
+   "column": "R",
+   "bbox": [
+    300,
+    87.9,
+    572,
+    338.6
+   ]
+  },
+  {
+   "num": 20,
+   "label": "20.",
+   "page": 5,
+   "pdf_page": 4,
+   "column": "R",
+   "bbox": [
+    300,
+    424.1,
+    572,
+    479.0
+   ]
+  },
+  {
+   "num": 21,
+   "label": "21.",
+   "page": 6,
+   "pdf_page": 5,
+   "column": "L",
+   "bbox": [
+    28,
+    87.9,
+    296,
+    235.0
+   ]
+  },
+  {
+   "num": 22,
+   "label": "22.",
+   "page": 6,
+   "pdf_page": 5,
+   "column": "L",
+   "bbox": [
+    28,
+    424.6,
+    296,
+    494.9
+   ]
+  }
+ ]
+}

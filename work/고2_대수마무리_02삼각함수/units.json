@@ -1,0 +1,20 @@
+[
+  {"id": "u01", "title": "삼각함수", "group": "① YBM", "start": {"page": 1, "column": "L", "y": 0}},
+  {"id": "u02", "title": "사인법칙과 코사인법칙", "group": "① YBM", "start": {"page": 5, "column": "L", "y": 0}},
+  {"id": "u03", "title": "대단원 마무리", "group": "① YBM", "start": {"page": 6, "column": "L", "y": 0}},
+  {"id": "u04", "title": "삼각함수", "group": "② 동아출판", "start": {"page": 11, "column": "L", "y": 0}},
+  {"id": "u05", "title": "사인법칙과 코사인법칙", "group": "② 동아출판", "start": {"page": 19, "column": "L", "y": 0}},
+  {"id": "u06", "title": "삼각함수", "group": "③ 미래엔", "start": {"page": 25, "column": "L", "y": 0}},
+  {"id": "u07", "title": "사인법칙과 코사인법칙", "group": "③ 미래엔", "start": {"page": 29, "column": "L", "y": 0}},
+  {"id": "u08", "title": "대단원 평가 문제", "group": "③ 미래엔", "start": {"page": 33, "column": "L", "y": 0}},
+  {"id": "u09", "title": "삼각함수", "group": "④ 비상", "start": {"page": 37, "column": "L", "y": 0}},
+  {"id": "u10", "title": "사인법칙과 코사인법칙", "group": "④ 비상", "start": {"page": 40, "column": "L", "y": 0}},
+  {"id": "u11", "title": "대단원 마무리", "group": "④ 비상", "start": {"page": 43, "column": "L", "y": 0}},
+  {"id": "u12", "title": "수학 익힘책", "group": "④ 비상", "start": {"page": 45, "column": "L", "y": 0}},
+  {"id": "u13", "title": "삼각함수", "group": "⑤ 지학사", "start": {"page": 49, "column": "L", "y": 0}},
+  {"id": "u14", "title": "사인법칙과 코사인법칙", "group": "⑤ 지학사", "start": {"page": 52, "column": "L", "y": 0}},
+  {"id": "u15", "title": "대단원 마무리", "group": "⑤ 지학사", "start": {"page": 53, "column": "L", "y": 0}},
+  {"id": "u16", "title": "삼각함수", "group": "⑥ 천재(전)", "start": {"page": 57, "column": "L", "y": 0}},
+  {"id": "u17", "title": "사인법칙과 코사인법칙", "group": "⑥ 천재(전)", "start": {"page": 60, "column": "L", "y": 0}},
+  {"id": "u18", "title": "대단원 마무리", "group": "⑥ 천재(전)", "start": {"page": 63, "column": "L", "y": 0}}
+]

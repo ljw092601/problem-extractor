@@ -1,0 +1,15 @@
+{
+  "source": "ocr",
+  "pages": [[3, 26]],
+  "skip_pages": [13],
+  "label_regex": "^(0[0-9]\\d{2})(?![\\d\\-—.,])",
+  "body": [66, 780],
+  "columns":      [{"x": [14, 285], "label_x": [16, 44]}, {"x": [285, 548], "label_x": [283, 312]}],
+  "columns_even": [{"x": [18, 297], "label_x": [20, 60]}, {"x": [297, 578], "label_x": [292, 334]}],
+  "manual_labels": [{"page": 24, "col": 1, "y": 633, "num": 684}],
+  "top_pad": 8,
+  "bot_pad": 12,
+  "gap_stop": 45,
+  "group_gap_stop": 80,
+  "drop_outliers": true
+}

@@ -1,0 +1,67 @@
+{
+ "source": "text",
+ "pages": [
+  [
+   97,
+   97
+  ]
+ ],
+ "label_regex": "^0?([1-9]\\d?)$",
+ "text_size": [
+  19.5,
+  22.5
+ ],
+ "body": [
+  40,
+  405
+ ],
+ "columns": [
+  {
+   "x": [
+    58,
+    304
+   ],
+   "label_x": [
+    67,
+    85
+   ]
+  },
+  {
+   "x": [
+    311,
+    553
+   ],
+   "label_x": [
+    319,
+    335
+   ]
+  }
+ ],
+ "columns_even": [
+  {
+   "x": [
+    40,
+    283
+   ],
+   "label_x": [
+    46,
+    62
+   ]
+  },
+  {
+   "x": [
+    290,
+    550
+   ],
+   "label_x": [
+    298,
+    314
+   ]
+  }
+ ],
+ "top_pad": 20,
+ "bot_pad": 6,
+ "gap_stop": 160,
+ "groups": false,
+ "drop_outliers": false
+}

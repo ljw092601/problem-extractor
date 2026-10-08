@@ -1,0 +1,94 @@
+{
+ "source": "text",
+ "pages": [
+  [
+   74,
+   79
+  ]
+ ],
+ "label_regex": "^(\\d{2})$",
+ "text_size": [
+  16.5,
+  17.5
+ ],
+ "body": [
+  115,
+  700
+ ],
+ "columns": [
+  {
+   "x": [
+    87,
+    537
+   ],
+   "label_x": [
+    94,
+    104
+   ]
+  }
+ ],
+ "columns_even": [
+  {
+   "x": [
+    65,
+    520
+   ],
+   "label_x": [
+    77,
+    87
+   ]
+  }
+ ],
+ "manual_groups": [
+  {
+   "page": 74,
+   "col": 0,
+   "y": 198,
+   "range": [
+    1,
+    2
+   ]
+  },
+  {
+   "page": 75,
+   "col": 0,
+   "y": 198,
+   "range": [
+    1,
+    3
+   ]
+  },
+  {
+   "page": 76,
+   "col": 0,
+   "y": 198,
+   "range": [
+    1,
+    3
+   ]
+  },
+  {
+   "page": 78,
+   "col": 0,
+   "y": 198,
+   "range": [
+    1,
+    2
+   ]
+  },
+  {
+   "page": 79,
+   "col": 0,
+   "y": 198,
+   "range": [
+    1,
+    3
+   ]
+  }
+ ],
+ "group_gap_stop": 150,
+ "top_pad": 6,
+ "bot_pad": 6,
+ "gap_stop": 60,
+ "drop_outliers": false
+}

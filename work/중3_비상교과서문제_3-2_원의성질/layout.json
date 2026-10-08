@@ -1,0 +1,13 @@
+{
+  "source": "ocr",
+  "label_regex": "^(\\d{1,2})$",
+  "label_min_h": 11,
+  "body": [55, 786],
+  "columns": [{"x": [28, 293], "label_x": [34, 50]}, {"x": [297, 568], "label_x": [300, 317]}],
+  "manual_labels": [{"page": 1, "col": 0, "y": 175, "num": 1}],
+  "auto_continued": true,
+  "continued_skip": [1],
+  "top_pad": 6,
+  "bot_pad": 8,
+  "gap_stop": 50
+}

@@ -1,0 +1,6 @@
+[
+  {"id": "u1", "title": "지수와 로그 · 지수함수와 로그함수 (예제·유제·Level 1)", "group": "수학Ⅰ 수능특강 변형", "start": {"page": 1, "column": "L", "y": 0}},
+  {"id": "u2", "title": "삼각함수 (예제·유제·Level 1)", "group": "수학Ⅰ 수능특강 변형", "start": {"page": 3, "column": "L", "y": 0}},
+  {"id": "u3", "title": "Level 2", "group": "수학Ⅰ 수능특강 변형", "start": {"page": 4, "column": "L", "y": 400}},
+  {"id": "u4", "title": "Level 3", "group": "수학Ⅰ 수능특강 변형", "start": {"page": 5, "column": "R", "y": 0}}
+]

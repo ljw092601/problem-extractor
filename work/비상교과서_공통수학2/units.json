@@ -1,0 +1,15 @@
+[
+ {"id": "u1", "title": "1 선분의 내분과 직선", "group": "Ⅰ. 도형의 방정식", "start": {"page": 10, "column": "L", "y": 0}},
+ {"id": "u2", "title": "2 원의 방정식", "group": "Ⅰ. 도형의 방정식", "start": {"page": 29, "column": "L", "y": 0}},
+ {"id": "u3", "title": "3 도형의 이동", "group": "Ⅰ. 도형의 방정식", "start": {"page": 42, "column": "L", "y": 0}},
+ {"id": "u4", "title": "Ⅰ 대단원 학습 평가", "group": "Ⅰ. 도형의 방정식", "start": {"page": 54, "column": "L", "y": 0}},
+ {"id": "u5", "title": "1 집합", "group": "Ⅱ. 집합과 명제", "start": {"page": 60, "column": "L", "y": 0}},
+ {"id": "u6", "title": "2 명제", "group": "Ⅱ. 집합과 명제", "start": {"page": 77, "column": "L", "y": 0}},
+ {"id": "u7", "title": "Ⅱ 대단원 학습 평가", "group": "Ⅱ. 집합과 명제", "start": {"page": 94, "column": "L", "y": 0}},
+ {"id": "u8", "title": "1 함수", "group": "Ⅲ. 함수와 그래프", "start": {"page": 100, "column": "L", "y": 0}},
+ {"id": "u9", "title": "2 유리함수와 무리함수", "group": "Ⅲ. 함수와 그래프", "start": {"page": 117, "column": "L", "y": 0}},
+ {"id": "u10", "title": "Ⅲ 대단원 학습 평가", "group": "Ⅲ. 함수와 그래프", "start": {"page": 130, "column": "L", "y": 0}},
+ {"id": "u11", "title": "수학 익힘책 Ⅰ. 도형의 방정식", "group": "스스로 공부하는 수학 익힘책", "start": {"page": 136, "column": "L", "y": 0}},
+ {"id": "u12", "title": "수학 익힘책 Ⅱ. 집합과 명제", "group": "스스로 공부하는 수학 익힘책", "start": {"page": 138, "column": "L", "y": 0}},
+ {"id": "u13", "title": "수학 익힘책 Ⅲ. 함수와 그래프", "group": "스스로 공부하는 수학 익힘책", "start": {"page": 140, "column": "L", "y": 0}}
+]

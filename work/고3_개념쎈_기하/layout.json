@@ -1,0 +1,14 @@
+{
+  "source": "ocr",
+  "pages": [[4, 219]],
+  "skip_pages": [[37, 41], [69, 72], [94, 97], [114, 117], [144, 147], [176, 180], [214, 218]],
+  "label_regex": "^(\\d{3})\\s*[-—–~_]",
+  "label_min_h": 9.9,
+  "body": [40, 698],
+  "columns":      [{"x": [30, 482], "label_x": [36, 60]}],
+  "columns_even": [{"x": [36, 490], "label_x": [42, 64]}],
+  "top_pad": 14,
+  "bot_pad": 6,
+  "gap_stop": 45,
+  "drop_outliers": false
+}

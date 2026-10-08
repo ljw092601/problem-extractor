@@ -1,0 +1,14 @@
+{
+  "source": "ocr",
+  "pages": [[38, 39], [74, 75], [104, 105], [136, 137]],
+  "label_regex": "^(\\d{2})$",
+  "label_min_h": 11.5,
+  "drop_outliers": false,
+  "body": [60, 795],
+  "columns":      [{"x": [30, 449], "label_x": [34, 52]}],
+  "columns_even": [{"x": [12, 436], "label_x": [14, 36]}],
+  "top_pad": 6,
+  "bot_pad": 6,
+  "gap_stop": 60,
+  "ocr_dpi": [150, 200, 300, 400]
+}

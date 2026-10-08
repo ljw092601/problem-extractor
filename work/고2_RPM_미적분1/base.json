@@ -1,0 +1,17 @@
+﻿{
+  "source": "ocr",
+  "pages": [[7, 134]],
+  "label_regex": "^(0\\d{3})$",
+  "body": [40, 762],
+  "columns":      [{"x": [52, 306.5], "label_x": [55, 62]}, {"x": [311, 557], "label_x": [319, 327]}],
+  "columns_even": [{"x": [42, 298], "label_x": [46, 53]}, {"x": [302, 550], "label_x": [311, 318]}],
+  "top_pad": 9,
+  "bot_pad": 12,
+  "gap_stop": 38,
+  "group_gap_stop": 38,
+  "drop_outliers": false
+}
+
+
+
+

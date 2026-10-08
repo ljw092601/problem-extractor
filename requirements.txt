@@ -1,0 +1,19 @@
+# 실행에 필요한 패키지 (Python 3.12 기준, 2026-10 확인 버전)
+PySide6==6.11.2
+PyMuPDF==1.28.0
+python-docx==1.2.0
+python-hwpx==6.5.0
+lxml==6.1.1
+
+# Windows OCR (스캔본 교재 등록 시)
+winrt-runtime==3.2.1
+winrt-Windows.Foundation==3.2.1
+winrt-Windows.Foundation.Collections==3.2.1
+winrt-Windows.Globalization==3.2.1
+winrt-Windows.Graphics.Imaging==3.2.1
+winrt-Windows.Media.Ocr==3.2.1
+winrt-Windows.Storage.Streams==3.2.1
+
+# 개발/빌드
+pyinstaller==6.22.3
+pytest==9.1.1

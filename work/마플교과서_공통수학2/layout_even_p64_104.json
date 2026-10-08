@@ -1,0 +1,14 @@
+{
+  "source": "ocr",
+  "pages": [[64, 64], [104, 104]],
+  "label_regex": "^(0\\d{3})(?!\\d)",
+  "body": [40, 731],
+  "columns": [{"x": [48, 575], "label_x": [48, 122]}],
+  "columns_even": [{"x": [48, 575], "label_x": [48, 122]}],
+  "manual_labels": [
+    {"page": 64, "col": 0, "y": 158, "num": 149}
+  ],
+  "top_pad": 8,
+  "bot_pad": 6,
+  "gap_stop": 45
+}

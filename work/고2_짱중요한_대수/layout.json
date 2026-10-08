@@ -1,0 +1,21 @@
+{
+  "source": "text",
+  "pages": [[9, 108]],
+  "label_regex": "^(\\d{2})$",
+  "text_size": [16.5, 18.5],
+  "body": [50, 795],
+  "columns": [{"x": [40, 307], "label_x": [45, 64]}, {"x": [314, 590], "label_x": [316, 337]}],
+  "top_pad": 8,
+  "bot_pad": 10,
+  "gap_stop": 60,
+  "drop_outliers": false,
+  "manual_labels": [
+    {"page": 40, "col": 1, "y": 340, "num": 12},
+    {"page": 41, "col": 1, "y": 542, "num": 19},
+    {"page": 47, "col": 0, "y": 578, "num": 16},
+    {"page": 76, "col": 1, "y": 570, "num": 12},
+    {"page": 92, "col": 1, "y": 68, "num": 10},
+    {"page": 98, "col": 1, "y": 69, "num": 10},
+    {"page": 99, "col": 0, "y": 294, "num": 14}
+  ]
+}

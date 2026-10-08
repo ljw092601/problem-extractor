@@ -1,0 +1,19 @@
+{
+  "source": "ocr",
+  "pages": [[2, 19]],
+  "label_regex": "^(\\d{2})$",
+  "body": [52, 790],
+  "columns":      [{"x": [33, 302], "label_x": [37, 50]}, {"x": [310, 580], "label_x": [315, 330]}],
+  "columns_even": [{"x": [14, 290], "label_x": [18, 32]}, {"x": [293, 564], "label_x": [296, 311]}],
+  "label_filter": "color",
+  "label_min_h": 10.5,
+  "drop_outliers": false,
+  "manual_labels": [
+    {"page": 6, "col": 0, "y": 591, "num": 3},
+    {"page": 7, "col": 1, "y": 608, "num": 12},
+    {"page": 13, "col": 1, "y": 444, "num": 10}
+  ],
+  "top_pad": 6,
+  "bot_pad": 8,
+  "gap_stop": 45
+}

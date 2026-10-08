@@ -1,0 +1,22 @@
+{
+  "source": "ocr",
+  "pages": [[7, 21], [24, 35], [43, 58], [60, 66], [68, 76], [84, 94], [96, 105]],
+  "label_regex": "^(\d{2})$",
+  "label_min_h": 12,
+  "body": [80, 662],
+  "columns": [{"x": [60, 352], "label_x": [62, 76]}],
+  "drop_outliers": false,
+  "manual_labels": [
+    {"page": 9, "col": 0, "y": 99, "num": 10},
+    {"page": 25, "col": 0, "y": 541, "num": 10},
+    {"page": 44, "col": 0, "y": 522, "num": 10},
+    {"page": 61, "col": 0, "y": 529, "num": 10},
+    {"page": 62, "col": 0, "y": 86, "num": 11},
+    {"page": 69, "col": 0, "y": 537, "num": 10},
+    {"page": 86, "col": 0, "y": 261, "num": 10},
+    {"page": 98, "col": 0, "y": 308, "num": 10}
+  ],
+  "top_pad": 6,
+  "bot_pad": 8,
+  "gap_stop": 40
+}

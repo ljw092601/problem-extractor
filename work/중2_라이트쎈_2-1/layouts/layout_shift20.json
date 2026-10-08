@@ -1,0 +1,50 @@
+{
+ "source": "ocr",
+ "label_regex": "^(?!0118|1105|1106|1109|1110|1112|1114)(0\\d{3}|1[01]\\d{2})[0'9]?$",
+ "body": [
+  52,
+  793
+ ],
+ "label_min_h": 9.8,
+ "group_regex": "^\\s*[\\[【(|lI1]\\s*(\\d{4})\\s*[~∼〜\\-－—–]?\\s*(\\d{4})",
+ "top_pad": 16,
+ "bot_pad": 10,
+ "gap_stop": 45,
+ "group_gap_stop": 110,
+ "manual_labels": [],
+ "manual_groups": [],
+ "continued": [],
+ "columns": [
+  {
+   "x": [
+    8,
+    272
+   ],
+   "label_x": [
+    14,
+    29
+   ]
+  },
+  {
+   "x": [
+    277,
+    546
+   ],
+   "label_x": [
+    277,
+    296
+   ]
+  }
+ ],
+ "pages": [
+  [
+   120,
+   120
+  ],
+  [
+   146,
+   146
+  ]
+ ],
+ "drop_outliers": false
+}

@@ -1,0 +1,8 @@
+[
+  {"id": "u1", "title": "Ⅰ. 지수함수와 로그함수 (SET 01~08)", "group": "핵심 문제",     "start": {"page": 16,  "column": "L", "y": 0}},
+  {"id": "u2", "title": "Ⅱ. 삼각함수 (SET 09~16)",           "group": "핵심 문제",     "start": {"page": 58,  "column": "L", "y": 0}},
+  {"id": "u3", "title": "Ⅲ. 수열 (SET 17~24)",               "group": "핵심 문제",     "start": {"page": 98,  "column": "L", "y": 0}},
+  {"id": "u4", "title": "Ⅰ. 지수함수와 로그함수 (SET 01~08)", "group": "[부록] 짝기출", "start": {"page": 132, "column": "L", "y": 0}},
+  {"id": "u5", "title": "Ⅱ. 삼각함수 (SET 09~16)",           "group": "[부록] 짝기출", "start": {"page": 148, "column": "L", "y": 0}},
+  {"id": "u6", "title": "Ⅲ. 수열 (SET 17~24)",               "group": "[부록] 짝기출", "start": {"page": 164, "column": "L", "y": 0}}
+]

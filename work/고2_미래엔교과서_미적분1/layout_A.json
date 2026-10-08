@@ -1,0 +1,14 @@
+{
+  "source": "text",
+  "pages": [[15, 26], [35, 43], [59, 72], [81, 106], [121, 135], [143, 150]],
+  "label_regex": "^(\d{1,2})$",
+  "text_size": [14.0, 14.6],
+  "body": [45, 715],
+  "columns":      [{"x": [157, 575], "label_x": [205, 217]}],
+  "columns_even": [{"x": [138, 556], "label_x": [185, 196]}],
+  "top_pad": 14,
+  "bot_pad": 6,
+  "gap_stop": 40,
+  "groups": false,
+  "drop_outliers": false
+}

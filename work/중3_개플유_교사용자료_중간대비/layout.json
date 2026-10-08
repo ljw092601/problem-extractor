@@ -1,0 +1,12 @@
+{
+  "source": "ocr",
+  "pages": [[1, 3]],
+  "label_regex": "^(\\d{1,2})$",
+  "drop_outliers": false,
+  "body": [55, 748],
+  "columns":      [{"x": [44, 298], "label_x": [45, 64]}, {"x": [299, 560], "label_x": [300, 320]}],
+  "columns_even": [{"x": [28, 283], "label_x": [29, 48]}, {"x": [284, 548], "label_x": [284, 304]}],
+  "top_pad": 6,
+  "bot_pad": 6,
+  "gap_stop": 40
+}

@@ -1,0 +1,2270 @@
+{
+ "pdf": "중등_수학_개념 플러스 유형_③-1_라이트_본문(2015).pdf",
+ "problems": [
+  {
+   "num": 1,
+   "label": "1",
+   "page": 6,
+   "pdf_page": 5,
+   "column": "L",
+   "bbox": [
+    40,
+    245.8,
+    292,
+    402.6
+   ]
+  },
+  {
+   "num": 2,
+   "label": "2",
+   "page": 6,
+   "pdf_page": 5,
+   "column": "L",
+   "bbox": [
+    40,
+    421.2,
+    292,
+    576.8
+   ]
+  },
+  {
+   "num": 3,
+   "label": "3",
+   "page": 6,
+   "pdf_page": 5,
+   "column": "L",
+   "bbox": [
+    40,
+    595.6,
+    292,
+    696.3
+   ]
+  },
+  {
+   "num": 4,
+   "label": "4",
+   "page": 6,
+   "pdf_page": 5,
+   "column": "R",
+   "bbox": [
+    298,
+    246.1,
+    548,
+    413.7
+   ]
+  },
+  {
+   "num": 5,
+   "label": "5",
+   "page": 6,
+   "pdf_page": 5,
+   "column": "R",
+   "bbox": [
+    298,
+    415.7,
+    548,
+    524.2
+   ]
+  },
+  {
+   "num": 6,
+   "label": "6",
+   "page": 6,
+   "pdf_page": 5,
+   "column": "R",
+   "bbox": [
+    298,
+    545.0,
+    548,
+    707.8
+   ]
+  },
+  {
+   "num": 1,
+   "label": "1",
+   "page": 7,
+   "pdf_page": 6,
+   "column": "L",
+   "bbox": [
+    45,
+    217.2,
+    297,
+    350.0
+   ]
+  },
+  {
+   "num": 2,
+   "label": "2",
+   "page": 7,
+   "pdf_page": 6,
+   "column": "L",
+   "bbox": [
+    45,
+    394.8,
+    297,
+    531.4
+   ]
+  },
+  {
+   "num": 3,
+   "label": "3",
+   "page": 7,
+   "pdf_page": 6,
+   "column": "L",
+   "bbox": [
+    45,
+    574.0,
+    297,
+    707.1
+   ]
+  },
+  {
+   "num": 4,
+   "label": "4",
+   "page": 7,
+   "pdf_page": 6,
+   "column": "R",
+   "bbox": [
+    303,
+    217.2,
+    553,
+    356.5
+   ]
+  },
+  {
+   "num": 5,
+   "label": "5",
+   "page": 7,
+   "pdf_page": 6,
+   "column": "R",
+   "bbox": [
+    303,
+    407.4,
+    553,
+    532.2
+   ]
+  },
+  {
+   "num": 6,
+   "label": "6",
+   "page": 7,
+   "pdf_page": 6,
+   "column": "R",
+   "bbox": [
+    303,
+    583.4,
+    553,
+    707.8
+   ]
+  },
+  {
+   "num": 1,
+   "label": "1~3",
+   "page": 8,
+   "pdf_page": 7,
+   "column": "L",
+   "bbox": [
+    40,
+    169.6,
+    292,
+    705.7
+   ],
+   "num_end": 3
+  },
+  {
+   "num": 4,
+   "label": "4",
+   "page": 8,
+   "pdf_page": 7,
+   "column": "R",
+   "bbox": [
+    298,
+    166.7,
+    548,
+    226.9
+   ]
+  },
+  {
+   "num": 5,
+   "label": "5",
+   "page": 8,
+   "pdf_page": 7,
+   "column": "R",
+   "bbox": [
+    298,
+    290.1,
+    548,
+    499.8
+   ]
+  },
+  {
+   "num": 6,
+   "label": "6",
+   "page": 8,
+   "pdf_page": 7,
+   "column": "R",
+   "bbox": [
+    298,
+    555.4,
+    548,
+    707.8
+   ]
+  },
+  {
+   "num": 1,
+   "label": "1",
+   "page": 9,
+   "pdf_page": 8,
+   "column": "L",
+   "bbox": [
+    45,
+    169.0,
+    297,
+    324.1
+   ]
+  },
+  {
+   "num": 2,
+   "label": "2",
+   "page": 9,
+   "pdf_page": 8,
+   "column": "L",
+   "bbox": [
+    45,
+    361.0,
+    297,
+    516.3
+   ]
+  },
+  {
+   "num": 3,
+   "label": "3",
+   "page": 9,
+   "pdf_page": 8,
+   "column": "L",
+   "bbox": [
+    45,
+    552.4,
+    297,
+    707.8
+   ]
+  },
+  {
+   "num": 4,
+   "label": "4~5",
+   "page": 9,
+   "pdf_page": 8,
+   "column": "R",
+   "bbox": [
+    303,
+    170.9,
+    553,
+    581.1
+   ],
+   "num_end": 5
+  },
+  {
+   "num": 6,
+   "label": "6",
+   "page": 9,
+   "pdf_page": 8,
+   "column": "R",
+   "bbox": [
+    303,
+    612.4,
+    553,
+    707.1
+   ]
+  },
+  {
+   "num": 1,
+   "label": "1",
+   "page": 10,
+   "pdf_page": 9,
+   "column": "L",
+   "bbox": [
+    40,
+    94.6,
+    292,
+    368.0
+   ]
+  },
+  {
+   "num": 2,
+   "label": "2",
+   "page": 10,
+   "pdf_page": 9,
+   "column": "L",
+   "bbox": [
+    40,
+    379.1,
+    292,
+    706.4
+   ]
+  },
+  {
+   "num": 3,
+   "label": "3",
+   "page": 10,
+   "pdf_page": 9,
+   "column": "R",
+   "bbox": [
+    298,
+    94.6,
+    548,
+    249.9
+   ]
+  },
+  {
+   "num": 4,
+   "label": "4",
+   "page": 10,
+   "pdf_page": 9,
+   "column": "R",
+   "bbox": [
+    298,
+    281.6,
+    548,
+    376.6
+   ]
+  },
+  {
+   "num": 5,
+   "label": "5",
+   "page": 10,
+   "pdf_page": 9,
+   "column": "R",
+   "bbox": [
+    298,
+    408.2,
+    548,
+    541.5
+   ]
+  },
+  {
+   "num": 6,
+   "label": "6",
+   "page": 10,
+   "pdf_page": 9,
+   "column": "R",
+   "bbox": [
+    298,
+    573.6,
+    548,
+    707.1
+   ]
+  },
+  {
+   "num": 1,
+   "label": "1",
+   "page": 11,
+   "pdf_page": 10,
+   "column": "L",
+   "bbox": [
+    45,
+    188.8,
+    297,
+    311.8
+   ]
+  },
+  {
+   "num": 2,
+   "label": "2",
+   "page": 11,
+   "pdf_page": 10,
+   "column": "L",
+   "bbox": [
+    45,
+    325.1,
+    297,
+    476.7
+   ]
+  },
+  {
+   "num": 3,
+   "label": "3~4",
+   "page": 11,
+   "pdf_page": 10,
+   "column": "L",
+   "bbox": [
+    45,
+    487.0,
+    297,
+    706.4
+   ],
+   "num_end": 4
+  },
+  {
+   "num": 5,
+   "label": "5",
+   "page": 11,
+   "pdf_page": 10,
+   "column": "R",
+   "bbox": [
+    303,
+    189.1,
+    553,
+    340.6
+   ]
+  },
+  {
+   "num": 6,
+   "label": "6~7",
+   "page": 11,
+   "pdf_page": 10,
+   "column": "R",
+   "bbox": [
+    303,
+    372.7,
+    553,
+    708.6
+   ],
+   "num_end": 7
+  },
+  {
+   "num": 1,
+   "label": "1~2",
+   "page": 18,
+   "pdf_page": 17,
+   "column": "L",
+   "bbox": [
+    40,
+    192.8,
+    292,
+    705.7
+   ],
+   "num_end": 2
+  },
+  {
+   "num": 3,
+   "label": "3",
+   "page": 18,
+   "pdf_page": 17,
+   "column": "R",
+   "bbox": [
+    298,
+    191.4,
+    548,
+    468.8
+   ]
+  },
+  {
+   "num": 4,
+   "label": "4",
+   "page": 18,
+   "pdf_page": 17,
+   "column": "R",
+   "bbox": [
+    298,
+    476.8,
+    548,
+    707.1
+   ]
+  },
+  {
+   "num": 1,
+   "label": "1",
+   "page": 20,
+   "pdf_page": 19,
+   "column": "L",
+   "bbox": [
+    40,
+    233.8,
+    292,
+    436.4
+   ]
+  },
+  {
+   "num": 2,
+   "label": "2",
+   "page": 20,
+   "pdf_page": 19,
+   "column": "L",
+   "bbox": [
+    40,
+    534.8,
+    292,
+    709.3
+   ]
+  },
+  {
+   "num": 3,
+   "label": "3",
+   "page": 20,
+   "pdf_page": 19,
+   "column": "R",
+   "bbox": [
+    298,
+    233.8,
+    548,
+    416.2
+   ]
+  },
+  {
+   "num": 4,
+   "label": "4",
+   "page": 20,
+   "pdf_page": 19,
+   "column": "R",
+   "bbox": [
+    298,
+    471.6,
+    548,
+    698.5
+   ]
+  },
+  {
+   "num": 1,
+   "label": "1~2",
+   "page": 24,
+   "pdf_page": 23,
+   "column": "L",
+   "bbox": [
+    40,
+    197.1,
+    292,
+    440.0
+   ],
+   "num_end": 2
+  },
+  {
+   "num": 3,
+   "label": "3~4",
+   "page": 24,
+   "pdf_page": 23,
+   "column": "L",
+   "bbox": [
+    40,
+    492.7,
+    292,
+    707.1
+   ],
+   "num_end": 4
+  },
+  {
+   "num": 5,
+   "label": "5~6",
+   "page": 24,
+   "pdf_page": 23,
+   "column": "R",
+   "bbox": [
+    298,
+    196.5,
+    548,
+    417.7
+   ],
+   "num_end": 6
+  },
+  {
+   "num": 7,
+   "label": "7~9",
+   "page": 24,
+   "pdf_page": 23,
+   "column": "R",
+   "bbox": [
+    298,
+    448.2,
+    548,
+    707.1
+   ],
+   "num_end": 9
+  },
+  {
+   "num": 1,
+   "label": "1",
+   "page": 25,
+   "pdf_page": 24,
+   "column": "L",
+   "bbox": [
+    45,
+    164.4,
+    297,
+    258.6
+   ]
+  },
+  {
+   "num": 2,
+   "label": "2",
+   "page": 25,
+   "pdf_page": 24,
+   "column": "L",
+   "bbox": [
+    45,
+    297.4,
+    297,
+    399.0
+   ]
+  },
+  {
+   "num": 3,
+   "label": "3",
+   "page": 25,
+   "pdf_page": 24,
+   "column": "L",
+   "bbox": [
+    45,
+    437.1,
+    297,
+    556.6
+   ]
+  },
+  {
+   "num": 4,
+   "label": "4",
+   "page": 25,
+   "pdf_page": 24,
+   "column": "L",
+   "bbox": [
+    45,
+    595.4,
+    297,
+    707.1
+   ]
+  },
+  {
+   "num": 5,
+   "label": "5",
+   "page": 25,
+   "pdf_page": 24,
+   "column": "R",
+   "bbox": [
+    303,
+    164.4,
+    553,
+    352.2
+   ]
+  },
+  {
+   "num": 6,
+   "label": "6",
+   "page": 25,
+   "pdf_page": 24,
+   "column": "R",
+   "bbox": [
+    303,
+    414.6,
+    553,
+    510.6
+   ]
+  },
+  {
+   "num": 7,
+   "label": "7",
+   "page": 25,
+   "pdf_page": 24,
+   "column": "R",
+   "bbox": [
+    303,
+    573.1,
+    553,
+    707.8
+   ]
+  },
+  {
+   "num": 1,
+   "label": "1",
+   "page": 26,
+   "pdf_page": 25,
+   "column": "L",
+   "bbox": [
+    40,
+    260.7,
+    292,
+    491.8
+   ]
+  },
+  {
+   "num": 2,
+   "label": "2~3",
+   "page": 26,
+   "pdf_page": 25,
+   "column": "L",
+   "bbox": [
+    40,
+    517.2,
+    292,
+    708.6
+   ],
+   "num_end": 3
+  },
+  {
+   "num": 4,
+   "label": "4~5",
+   "page": 26,
+   "pdf_page": 25,
+   "column": "R",
+   "bbox": [
+    298,
+    262.7,
+    548,
+    494.0
+   ],
+   "num_end": 5
+  },
+  {
+   "num": 6,
+   "label": "6",
+   "page": 26,
+   "pdf_page": 25,
+   "column": "R",
+   "bbox": [
+    298,
+    544.5,
+    548,
+    708.6
+   ]
+  },
+  {
+   "num": 1,
+   "label": "1~2",
+   "page": 27,
+   "pdf_page": 26,
+   "column": "L",
+   "bbox": [
+    45,
+    224.0,
+    297,
+    558.1
+   ],
+   "num_end": 2
+  },
+  {
+   "num": 3,
+   "label": "3",
+   "page": 27,
+   "pdf_page": 26,
+   "column": "L",
+   "bbox": [
+    45,
+    590.8,
+    297,
+    702.8
+   ]
+  },
+  {
+   "num": 4,
+   "label": "4",
+   "page": 27,
+   "pdf_page": 26,
+   "column": "R",
+   "bbox": [
+    303,
+    222.0,
+    553,
+    288.0
+   ]
+  },
+  {
+   "num": 5,
+   "label": "5",
+   "page": 27,
+   "pdf_page": 26,
+   "column": "R",
+   "bbox": [
+    303,
+    290.0,
+    553,
+    501.2
+   ]
+  },
+  {
+   "num": 6,
+   "label": "6",
+   "page": 27,
+   "pdf_page": 26,
+   "column": "R",
+   "bbox": [
+    303,
+    503.2,
+    553,
+    591.3
+   ]
+  },
+  {
+   "num": 7,
+   "label": "7",
+   "page": 27,
+   "pdf_page": 26,
+   "column": "R",
+   "bbox": [
+    303,
+    593.3,
+    553,
+    707.1
+   ]
+  },
+  {
+   "num": 1,
+   "label": "1",
+   "page": 30,
+   "pdf_page": 29,
+   "column": "L",
+   "bbox": [
+    40,
+    218.1,
+    292,
+    394.6
+   ]
+  },
+  {
+   "num": 2,
+   "label": "2~3",
+   "page": 30,
+   "pdf_page": 29,
+   "column": "L",
+   "bbox": [
+    40,
+    442.9,
+    292,
+    707.1
+   ],
+   "num_end": 3
+  },
+  {
+   "num": 4,
+   "label": "4~7",
+   "page": 30,
+   "pdf_page": 29,
+   "column": "R",
+   "bbox": [
+    298,
+    220.2,
+    548,
+    707.8
+   ],
+   "num_end": 7
+  },
+  {
+   "num": 1,
+   "label": "1~4",
+   "page": 31,
+   "pdf_page": 30,
+   "column": "L",
+   "bbox": [
+    45,
+    201.5,
+    297,
+    707.1
+   ],
+   "num_end": 4
+  },
+  {
+   "num": 5,
+   "label": "5",
+   "page": 31,
+   "pdf_page": 30,
+   "column": "R",
+   "bbox": [
+    303,
+    199.5,
+    553,
+    310.4
+   ]
+  },
+  {
+   "num": 6,
+   "label": "6~8",
+   "page": 31,
+   "pdf_page": 30,
+   "column": "R",
+   "bbox": [
+    303,
+    352.1,
+    553,
+    586.2
+   ],
+   "num_end": 8
+  },
+  {
+   "num": 9,
+   "label": "9",
+   "page": 31,
+   "pdf_page": 30,
+   "column": "R",
+   "bbox": [
+    303,
+    626.4,
+    553,
+    698.5
+   ]
+  },
+  {
+   "num": 1,
+   "label": "1~4",
+   "page": 32,
+   "pdf_page": 31,
+   "column": "L",
+   "bbox": [
+    40,
+    146.8,
+    292,
+    523.5
+   ],
+   "num_end": 4
+  },
+  {
+   "num": 5,
+   "label": "5~6",
+   "page": 32,
+   "pdf_page": 31,
+   "column": "L",
+   "bbox": [
+    40,
+    547.7,
+    292,
+    704.2
+   ],
+   "num_end": 6
+  },
+  {
+   "num": 7,
+   "label": "7~8",
+   "page": 32,
+   "pdf_page": 31,
+   "column": "R",
+   "bbox": [
+    298,
+    146.8,
+    548,
+    404.7
+   ],
+   "num_end": 8
+  },
+  {
+   "num": 9,
+   "label": "9",
+   "page": 32,
+   "pdf_page": 31,
+   "column": "R",
+   "bbox": [
+    298,
+    429.7,
+    548,
+    573.9
+   ]
+  },
+  {
+   "num": 10,
+   "label": "10",
+   "page": 32,
+   "pdf_page": 31,
+   "column": "R",
+   "bbox": [
+    298,
+    611.1,
+    548,
+    707.8
+   ]
+  },
+  {
+   "num": 1,
+   "label": "1",
+   "page": 33,
+   "pdf_page": 32,
+   "column": "L",
+   "bbox": [
+    45,
+    194.6,
+    297,
+    306.8
+   ]
+  },
+  {
+   "num": 2,
+   "label": "2~3",
+   "page": 33,
+   "pdf_page": 32,
+   "column": "L",
+   "bbox": [
+    45,
+    357.0,
+    297,
+    707.8
+   ],
+   "num_end": 3
+  },
+  {
+   "num": 4,
+   "label": "4",
+   "page": 33,
+   "pdf_page": 32,
+   "column": "R",
+   "bbox": [
+    303,
+    194.6,
+    553,
+    358.6
+   ]
+  },
+  {
+   "num": 5,
+   "label": "5",
+   "page": 33,
+   "pdf_page": 32,
+   "column": "R",
+   "bbox": [
+    303,
+    431.5,
+    553,
+    691.3
+   ]
+  },
+  {
+   "num": 1,
+   "label": "1",
+   "page": 39,
+   "pdf_page": 38,
+   "column": "L",
+   "bbox": [
+    45,
+    226.5,
+    297,
+    327.0
+   ]
+  },
+  {
+   "num": 2,
+   "label": "2",
+   "page": 39,
+   "pdf_page": 38,
+   "column": "L",
+   "bbox": [
+    45,
+    383.4,
+    297,
+    484.6
+   ]
+  },
+  {
+   "num": 3,
+   "label": "3",
+   "page": 39,
+   "pdf_page": 38,
+   "column": "L",
+   "bbox": [
+    45,
+    543.3,
+    297,
+    707.1
+   ]
+  },
+  {
+   "num": 4,
+   "label": "4~6",
+   "page": 39,
+   "pdf_page": 38,
+   "column": "R",
+   "bbox": [
+    303,
+    228.3,
+    553,
+    707.1
+   ],
+   "num_end": 6
+  },
+  {
+   "num": 1,
+   "label": "1",
+   "page": 40,
+   "pdf_page": 39,
+   "column": "L",
+   "bbox": [
+    40,
+    248.8,
+    292,
+    378.8
+   ]
+  },
+  {
+   "num": 2,
+   "label": "2~3",
+   "page": 40,
+   "pdf_page": 39,
+   "column": "L",
+   "bbox": [
+    40,
+    419.4,
+    292,
+    707.8
+   ],
+   "num_end": 3
+  },
+  {
+   "num": 4,
+   "label": "4",
+   "page": 40,
+   "pdf_page": 39,
+   "column": "R",
+   "bbox": [
+    298,
+    248.8,
+    548,
+    360.1
+   ]
+  },
+  {
+   "num": 5,
+   "label": "5",
+   "page": 40,
+   "pdf_page": 39,
+   "column": "R",
+   "bbox": [
+    298,
+    396.3,
+    548,
+    550.2
+   ]
+  },
+  {
+   "num": 6,
+   "label": "6",
+   "page": 40,
+   "pdf_page": 39,
+   "column": "R",
+   "bbox": [
+    298,
+    586.6,
+    548,
+    707.8
+   ]
+  },
+  {
+   "num": 1,
+   "label": "1",
+   "page": 41,
+   "pdf_page": 40,
+   "column": "L",
+   "bbox": [
+    45,
+    178.7,
+    297,
+    280.9
+   ]
+  },
+  {
+   "num": 2,
+   "label": "2~3",
+   "page": 41,
+   "pdf_page": 40,
+   "column": "L",
+   "bbox": [
+    45,
+    323.1,
+    297,
+    707.1
+   ],
+   "num_end": 3
+  },
+  {
+   "num": 4,
+   "label": "4",
+   "page": 41,
+   "pdf_page": 40,
+   "column": "R",
+   "bbox": [
+    303,
+    178.7,
+    553,
+    350.0
+   ]
+  },
+  {
+   "num": 5,
+   "label": "5",
+   "page": 41,
+   "pdf_page": 40,
+   "column": "R",
+   "bbox": [
+    303,
+    404.0,
+    553,
+    704.2
+   ]
+  },
+  {
+   "num": 1,
+   "label": "1",
+   "page": 42,
+   "pdf_page": 41,
+   "column": "L",
+   "bbox": [
+    40,
+    203.7,
+    292,
+    283.8
+   ]
+  },
+  {
+   "num": 2,
+   "label": "2",
+   "page": 42,
+   "pdf_page": 41,
+   "column": "L",
+   "bbox": [
+    40,
+    343.9,
+    292,
+    707.8
+   ]
+  },
+  {
+   "num": 3,
+   "label": "3~5",
+   "page": 42,
+   "pdf_page": 41,
+   "column": "R",
+   "bbox": [
+    298,
+    205.7,
+    548,
+    479.6
+   ],
+   "num_end": 5
+  },
+  {
+   "num": 6,
+   "label": "6",
+   "page": 42,
+   "pdf_page": 41,
+   "column": "R",
+   "bbox": [
+    298,
+    503.5,
+    548,
+    707.8
+   ]
+  },
+  {
+   "num": 1,
+   "label": "1",
+   "page": 43,
+   "pdf_page": 42,
+   "column": "L",
+   "bbox": [
+    45,
+    229.1,
+    297,
+    352.2
+   ]
+  },
+  {
+   "num": 2,
+   "label": "2~3",
+   "page": 43,
+   "pdf_page": 42,
+   "column": "R",
+   "bbox": [
+    303,
+    231.1,
+    553,
+    445.0
+   ],
+   "num_end": 3
+  },
+  {
+   "num": 4,
+   "label": "4",
+   "page": 43,
+   "pdf_page": 42,
+   "column": "R",
+   "bbox": [
+    303,
+    478.1,
+    553,
+    707.8
+   ]
+  },
+  {
+   "num": 1,
+   "label": "1",
+   "page": 44,
+   "pdf_page": 43,
+   "column": "L",
+   "bbox": [
+    40,
+    94.6,
+    292,
+    256.4
+   ]
+  },
+  {
+   "num": 2,
+   "label": "2",
+   "page": 44,
+   "pdf_page": 43,
+   "column": "L",
+   "bbox": [
+    40,
+    304.5,
+    292,
+    463.8
+   ]
+  },
+  {
+   "num": 3,
+   "label": "3",
+   "page": 44,
+   "pdf_page": 43,
+   "column": "L",
+   "bbox": [
+    40,
+    519.4,
+    292,
+    698.5
+   ]
+  },
+  {
+   "num": 4,
+   "label": "4",
+   "page": 44,
+   "pdf_page": 43,
+   "column": "R",
+   "bbox": [
+    298,
+    94.6,
+    548,
+    241.3
+   ]
+  },
+  {
+   "num": 5,
+   "label": "5",
+   "page": 44,
+   "pdf_page": 43,
+   "column": "R",
+   "bbox": [
+    298,
+    283.6,
+    548,
+    406.2
+   ]
+  },
+  {
+   "num": 6,
+   "label": "6~7",
+   "page": 44,
+   "pdf_page": 43,
+   "column": "R",
+   "bbox": [
+    298,
+    434.4,
+    548,
+    707.1
+   ],
+   "num_end": 7
+  },
+  {
+   "num": 1,
+   "label": "1",
+   "page": 50,
+   "pdf_page": 49,
+   "column": "L",
+   "bbox": [
+    40,
+    164.4,
+    292,
+    512.0
+   ]
+  },
+  {
+   "num": 2,
+   "label": "2",
+   "page": 50,
+   "pdf_page": 49,
+   "column": "L",
+   "bbox": [
+    40,
+    562.0,
+    292,
+    706.4
+   ]
+  },
+  {
+   "num": 3,
+   "label": "3~5",
+   "page": 50,
+   "pdf_page": 49,
+   "column": "R",
+   "bbox": [
+    298,
+    166.4,
+    548,
+    707.8
+   ],
+   "num_end": 5
+  },
+  {
+   "num": 1,
+   "label": "1",
+   "page": 51,
+   "pdf_page": 50,
+   "column": "L",
+   "bbox": [
+    45,
+    150.4,
+    297,
+    411.2
+   ]
+  },
+  {
+   "num": 2,
+   "label": "2",
+   "page": 51,
+   "pdf_page": 50,
+   "column": "L",
+   "bbox": [
+    45,
+    485.1,
+    297,
+    707.8
+   ]
+  },
+  {
+   "num": 3,
+   "label": "3~5",
+   "page": 51,
+   "pdf_page": 50,
+   "column": "R",
+   "bbox": [
+    303,
+    152.4,
+    553,
+    707.8
+   ],
+   "num_end": 5
+  },
+  {
+   "num": 1,
+   "label": "1",
+   "page": 55,
+   "pdf_page": 54,
+   "column": "L",
+   "bbox": [
+    45,
+    196.3,
+    297,
+    451.5
+   ]
+  },
+  {
+   "num": 2,
+   "label": "2~4",
+   "page": 55,
+   "pdf_page": 54,
+   "column": "L",
+   "bbox": [
+    45,
+    523.5,
+    297,
+    707.1
+   ],
+   "num_end": 4
+  },
+  {
+   "num": 4,
+   "label": "4",
+   "page": 55,
+   "pdf_page": 54,
+   "column": "R",
+   "bbox": [
+    303,
+    196.3,
+    553,
+    282.3
+   ]
+  },
+  {
+   "num": 5,
+   "label": "5",
+   "page": 55,
+   "pdf_page": 54,
+   "column": "R",
+   "bbox": [
+    303,
+    347.5,
+    553,
+    571.0
+   ]
+  },
+  {
+   "num": 6,
+   "label": "6",
+   "page": 55,
+   "pdf_page": 54,
+   "column": "R",
+   "bbox": [
+    303,
+    636.3,
+    553,
+    707.8
+   ]
+  },
+  {
+   "num": 1,
+   "label": "1",
+   "page": 56,
+   "pdf_page": 55,
+   "column": "L",
+   "bbox": [
+    40,
+    192.1,
+    292,
+    306.8
+   ]
+  },
+  {
+   "num": 2,
+   "label": "2",
+   "page": 56,
+   "pdf_page": 55,
+   "column": "L",
+   "bbox": [
+    40,
+    345.3,
+    292,
+    554.5
+   ]
+  },
+  {
+   "num": 3,
+   "label": "3",
+   "page": 56,
+   "pdf_page": 55,
+   "column": "L",
+   "bbox": [
+    40,
+    591.6,
+    292,
+    707.8
+   ]
+  },
+  {
+   "num": 4,
+   "label": "4",
+   "page": 56,
+   "pdf_page": 55,
+   "column": "R",
+   "bbox": [
+    298,
+    192.1,
+    548,
+    410.5
+   ]
+  },
+  {
+   "num": 5,
+   "label": "5",
+   "page": 56,
+   "pdf_page": 55,
+   "column": "R",
+   "bbox": [
+    298,
+    464.9,
+    548,
+    581.1
+   ]
+  },
+  {
+   "num": 6,
+   "label": "6",
+   "page": 56,
+   "pdf_page": 55,
+   "column": "R",
+   "bbox": [
+    298,
+    634.2,
+    548,
+    707.8
+   ]
+  },
+  {
+   "num": 1,
+   "label": "1",
+   "page": 57,
+   "pdf_page": 56,
+   "column": "L",
+   "bbox": [
+    45,
+    182.6,
+    297,
+    425.6
+   ]
+  },
+  {
+   "num": 2,
+   "label": "2",
+   "page": 57,
+   "pdf_page": 56,
+   "column": "L",
+   "bbox": [
+    45,
+    453.3,
+    297,
+    707.8
+   ]
+  },
+  {
+   "num": 3,
+   "label": "3",
+   "page": 57,
+   "pdf_page": 56,
+   "column": "R",
+   "bbox": [
+    303,
+    182.6,
+    553,
+    432.1
+   ]
+  },
+  {
+   "num": 4,
+   "label": "4",
+   "page": 57,
+   "pdf_page": 56,
+   "column": "R",
+   "bbox": [
+    303,
+    509.9,
+    553,
+    559.5
+   ]
+  },
+  {
+   "num": 5,
+   "label": "5",
+   "page": 57,
+   "pdf_page": 56,
+   "column": "R",
+   "bbox": [
+    303,
+    636.5,
+    553,
+    707.8
+   ]
+  },
+  {
+   "num": 1,
+   "label": "1",
+   "page": 58,
+   "pdf_page": 57,
+   "column": "L",
+   "bbox": [
+    40,
+    247.6,
+    292,
+    519.9
+   ]
+  },
+  {
+   "num": 2,
+   "label": "2",
+   "page": 58,
+   "pdf_page": 57,
+   "column": "L",
+   "bbox": [
+    40,
+    541.5,
+    292,
+    705.7
+   ]
+  },
+  {
+   "num": 3,
+   "label": "3",
+   "page": 58,
+   "pdf_page": 57,
+   "column": "R",
+   "bbox": [
+    298,
+    247.6,
+    548,
+    427.8
+   ]
+  },
+  {
+   "num": 4,
+   "label": "4",
+   "page": 58,
+   "pdf_page": 57,
+   "column": "R",
+   "bbox": [
+    298,
+    535.8,
+    548,
+    707.8
+   ]
+  },
+  {
+   "num": 1,
+   "label": "1",
+   "page": 59,
+   "pdf_page": 58,
+   "column": "L",
+   "bbox": [
+    45,
+    94.6,
+    297,
+    418.4
+   ]
+  },
+  {
+   "num": 2,
+   "label": "2",
+   "page": 59,
+   "pdf_page": 58,
+   "column": "L",
+   "bbox": [
+    45,
+    525.9,
+    297,
+    705.0
+   ]
+  },
+  {
+   "num": 3,
+   "label": "3",
+   "page": 59,
+   "pdf_page": 58,
+   "column": "R",
+   "bbox": [
+    303,
+    94.6,
+    553,
+    341.4
+   ]
+  },
+  {
+   "num": 4,
+   "label": "4",
+   "page": 59,
+   "pdf_page": 58,
+   "column": "R",
+   "bbox": [
+    303,
+    460.8,
+    553,
+    707.1
+   ]
+  },
+  {
+   "num": 1,
+   "label": "1",
+   "page": 64,
+   "pdf_page": 63,
+   "column": "L",
+   "bbox": [
+    40,
+    218.1,
+    292,
+    707.8
+   ]
+  },
+  {
+   "num": 2,
+   "label": "2",
+   "page": 64,
+   "pdf_page": 63,
+   "column": "R",
+   "bbox": [
+    298,
+    218.1,
+    548,
+    544.4
+   ]
+  },
+  {
+   "num": 3,
+   "label": "3",
+   "page": 64,
+   "pdf_page": 63,
+   "column": "R",
+   "bbox": [
+    298,
+    630.8,
+    548,
+    707.8
+   ]
+  },
+  {
+   "num": 1,
+   "label": "1",
+   "page": 65,
+   "pdf_page": 64,
+   "column": "L",
+   "bbox": [
+    45,
+    170.0,
+    297,
+    463.0
+   ]
+  },
+  {
+   "num": 2,
+   "label": "2",
+   "page": 65,
+   "pdf_page": 64,
+   "column": "L",
+   "bbox": [
+    45,
+    469.1,
+    297,
+    690.6
+   ]
+  },
+  {
+   "num": 3,
+   "label": "3",
+   "page": 65,
+   "pdf_page": 64,
+   "column": "R",
+   "bbox": [
+    303,
+    170.0,
+    553,
+    436.4
+   ]
+  },
+  {
+   "num": 4,
+   "label": "4",
+   "page": 65,
+   "pdf_page": 64,
+   "column": "R",
+   "bbox": [
+    303,
+    537.8,
+    553,
+    707.1
+   ]
+  },
+  {
+   "num": 1,
+   "label": "1",
+   "page": 68,
+   "pdf_page": 67,
+   "column": "L",
+   "bbox": [
+    40,
+    267.9,
+    292,
+    411.2
+   ]
+  },
+  {
+   "num": 2,
+   "label": "2",
+   "page": 68,
+   "pdf_page": 67,
+   "column": "L",
+   "bbox": [
+    40,
+    432.6,
+    292,
+    592.6
+   ]
+  },
+  {
+   "num": 3,
+   "label": "3",
+   "page": 68,
+   "pdf_page": 67,
+   "column": "L",
+   "bbox": [
+    40,
+    622.2,
+    292,
+    707.8
+   ]
+  },
+  {
+   "num": 4,
+   "label": "4",
+   "page": 68,
+   "pdf_page": 67,
+   "column": "R",
+   "bbox": [
+    298,
+    267.9,
+    548,
+    353.6
+   ]
+  },
+  {
+   "num": 5,
+   "label": "5",
+   "page": 68,
+   "pdf_page": 67,
+   "column": "R",
+   "bbox": [
+    298,
+    360.1,
+    548,
+    441.4
+   ]
+  },
+  {
+   "num": 6,
+   "label": "6",
+   "page": 68,
+   "pdf_page": 67,
+   "column": "R",
+   "bbox": [
+    298,
+    449.3,
+    548,
+    707.8
+   ]
+  },
+  {
+   "num": 7,
+   "label": "7",
+   "page": 69,
+   "pdf_page": 68,
+   "column": "L",
+   "bbox": [
+    45,
+    58,
+    297,
+    327.0
+   ]
+  },
+  {
+   "num": 9,
+   "label": "9",
+   "page": 69,
+   "pdf_page": 68,
+   "column": "L",
+   "bbox": [
+    45,
+    500.5,
+    297,
+    707.1
+   ]
+  },
+  {
+   "num": 8,
+   "label": "8",
+   "page": 69,
+   "pdf_page": 68,
+   "column": "R",
+   "bbox": [
+    303,
+    58,
+    553,
+    273.7
+   ]
+  },
+  {
+   "num": 10,
+   "label": "10",
+   "page": 69,
+   "pdf_page": 68,
+   "column": "R",
+   "bbox": [
+    303,
+    500.5,
+    553,
+    704.2
+   ]
+  },
+  {
+   "num": 1,
+   "label": "1",
+   "page": 70,
+   "pdf_page": 69,
+   "column": "L",
+   "bbox": [
+    40,
+    94.7,
+    292,
+    203.1
+   ]
+  },
+  {
+   "num": 2,
+   "label": "2",
+   "page": 70,
+   "pdf_page": 69,
+   "column": "L",
+   "bbox": [
+    40,
+    303.3,
+    292,
+    387.4
+   ]
+  },
+  {
+   "num": 3,
+   "label": "3",
+   "page": 70,
+   "pdf_page": 69,
+   "column": "L",
+   "bbox": [
+    40,
+    503.1,
+    292,
+    707.8
+   ]
+  },
+  {
+   "num": 4,
+   "label": "4",
+   "page": 70,
+   "pdf_page": 69,
+   "column": "R",
+   "bbox": [
+    298,
+    94.7,
+    548,
+    378.8
+   ]
+  },
+  {
+   "num": 5,
+   "label": "5",
+   "page": 70,
+   "pdf_page": 69,
+   "column": "R",
+   "bbox": [
+    298,
+    507.5,
+    548,
+    707.8
+   ]
+  },
+  {
+   "num": 1,
+   "label": "1",
+   "page": 76,
+   "pdf_page": 75,
+   "column": "L",
+   "bbox": [
+    40,
+    194.4,
+    292,
+    355.0
+   ]
+  },
+  {
+   "num": 2,
+   "label": "2",
+   "page": 76,
+   "pdf_page": 75,
+   "column": "L",
+   "bbox": [
+    40,
+    372.6,
+    292,
+    590.5
+   ]
+  },
+  {
+   "num": 3,
+   "label": "3",
+   "page": 76,
+   "pdf_page": 75,
+   "column": "L",
+   "bbox": [
+    40,
+    607.4,
+    292,
+    707.1
+   ]
+  },
+  {
+   "num": 4,
+   "label": "4",
+   "page": 76,
+   "pdf_page": 75,
+   "column": "R",
+   "bbox": [
+    298,
+    194.4,
+    548,
+    426.3
+   ]
+  },
+  {
+   "num": 5,
+   "label": "5",
+   "page": 76,
+   "pdf_page": 75,
+   "column": "R",
+   "bbox": [
+    298,
+    537.2,
+    548,
+    707.8
+   ]
+  },
+  {
+   "num": 1,
+   "label": "1",
+   "page": 88,
+   "pdf_page": 87,
+   "column": "L",
+   "bbox": [
+    40,
+    168.0,
+    292,
+    358.6
+   ]
+  },
+  {
+   "num": 2,
+   "label": "2",
+   "page": 88,
+   "pdf_page": 87,
+   "column": "L",
+   "bbox": [
+    40,
+    430.6,
+    292,
+    707.8
+   ]
+  },
+  {
+   "num": 3,
+   "label": "3",
+   "page": 88,
+   "pdf_page": 87,
+   "column": "R",
+   "bbox": [
+    298,
+    168.0,
+    548,
+    360.1
+   ]
+  },
+  {
+   "num": 4,
+   "label": "4",
+   "page": 88,
+   "pdf_page": 87,
+   "column": "R",
+   "bbox": [
+    298,
+    400.8,
+    548,
+    707.1
+   ]
+  },
+  {
+   "num": 1,
+   "label": "1",
+   "page": 94,
+   "pdf_page": 93,
+   "column": "L",
+   "bbox": [
+    40,
+    412.9,
+    292,
+    568.9
+   ]
+  },
+  {
+   "num": 2,
+   "label": "2",
+   "page": 94,
+   "pdf_page": 93,
+   "column": "R",
+   "bbox": [
+    298,
+    545.9,
+    548,
+    707.8
+   ]
+  },
+  {
+   "num": 3,
+   "label": "3",
+   "page": 95,
+   "pdf_page": 94,
+   "column": "L",
+   "bbox": [
+    45,
+    76.7,
+    297,
+    703.5
+   ]
+  },
+  {
+   "num": 4,
+   "label": "4",
+   "page": 95,
+   "pdf_page": 94,
+   "column": "R",
+   "bbox": [
+    303,
+    76.7,
+    553,
+    225.4
+   ]
+  },
+  {
+   "num": 5,
+   "label": "5",
+   "page": 95,
+   "pdf_page": 94,
+   "column": "R",
+   "bbox": [
+    303,
+    282.4,
+    553,
+    627.2
+   ]
+  },
+  {
+   "num": 1,
+   "label": "1",
+   "page": 99,
+   "pdf_page": 98,
+   "column": "L",
+   "bbox": [
+    45,
+    212.6,
+    297,
+    411.2
+   ]
+  },
+  {
+   "num": 2,
+   "label": "2",
+   "page": 99,
+   "pdf_page": 98,
+   "column": "L",
+   "bbox": [
+    45,
+    484.5,
+    297,
+    707.8
+   ]
+  },
+  {
+   "num": 3,
+   "label": "3",
+   "page": 99,
+   "pdf_page": 98,
+   "column": "R",
+   "bbox": [
+    303,
+    212.6,
+    553,
+    422.0
+   ]
+  },
+  {
+   "num": 4,
+   "label": "4",
+   "page": 99,
+   "pdf_page": 98,
+   "column": "R",
+   "bbox": [
+    303,
+    497.5,
+    553,
+    618.6
+   ]
+  }
+ ]
+}

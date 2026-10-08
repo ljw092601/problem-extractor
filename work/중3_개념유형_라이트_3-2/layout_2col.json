@@ -1,0 +1,15 @@
+{
+  "source": "text",
+  "pages": [[15, 15], [21, 22], [52, 52], [74, 76], [79, 81], [88, 89]],
+  "label_regex": "^(\\d{1,2})$",
+  "text_size": [16.3, 17.0],
+  "group_regex": "^\\s*\\[\\s*(\\d{1,2})\\s*~\\s*(\\d{1,2})\\]",
+  "group_gap_stop": 70,
+  "drop_outliers": false,
+  "body": [72, 760],
+  "columns":      [{"x": [47, 308], "label_x": [56, 70]}, {"x": [313, 575], "label_x": [320, 334]}],
+  "columns_even": [{"x": [36, 297], "label_x": [45, 59]}, {"x": [301, 565], "label_x": [307, 322]}],
+  "top_pad": 16,
+  "bot_pad": 8,
+  "gap_stop": 40
+}

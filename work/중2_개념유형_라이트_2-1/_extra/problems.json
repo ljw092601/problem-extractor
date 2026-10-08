@@ -1,0 +1,8 @@
+{
+ "pdf": "개념유형 라이트 2-1.pdf",
+ "problems": [
+  {"num": 3, "label": "3", "page": 24, "pdf_page": 23, "column": "R", "bbox": [301, 222, 560, 352], "continued": true},
+  {"num": 2, "label": "2", "page": 85, "pdf_page": 84, "column": "R", "bbox": [292, 196, 552, 420], "continued": true},
+  {"num": 2, "label": "2", "page": 115, "pdf_page": 114, "column": "R", "bbox": [292, 280, 552, 388], "continued": true}
+ ]
+}

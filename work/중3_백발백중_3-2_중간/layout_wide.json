@@ -1,0 +1,19 @@
+{
+  "source": "text",
+  "pages": [[14, 21], [30, 30], [38, 41], [48, 48], [58, 65], [74, 74], [82, 85], [92, 92]],
+  "label_regex": "^(\\d{1,2})$",
+  "text_size": [22.5, 23.5],
+  "body": [64, 796],
+  "columns": [{"x": [167, 586], "label_x": [170, 180]}],
+  "manual_labels": [
+    {"page": 30, "col": 0, "y": 557, "num": 23},
+    {"page": 48, "col": 0, "y": 557, "num": 17},
+    {"page": 74, "col": 0, "y": 557, "num": 23},
+    {"page": 92, "col": 0, "y": 557, "num": 17}
+  ],
+  "top_pad": 6,
+  "bot_pad": 6,
+  "gap_stop": 200,
+  "drop_outliers": false,
+  "groups": false
+}

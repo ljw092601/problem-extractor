@@ -1,0 +1,14 @@
+{
+ "source": "text",
+ "pages": [[18, 41], [58, 81], [92, 115], [118, 153]],
+ "label_regex": "^(NOMATCH\\d+)$",
+ "text_size": [21.5, 22.5],
+ "body": [98, 800],
+ "columns":      [{"x": [72, 324], "label_x": [80, 92]},  {"x": [333, 588], "label_x": [338, 350]}],
+ "columns_even": [{"x": [50, 303], "label_x": [59, 71]},  {"x": [311, 580], "label_x": [317, 329]}],
+ "top_pad": 6,
+ "bot_pad": 8,
+ "gap_stop": 40,
+ "drop_outliers": false,
+ "groups": false
+}

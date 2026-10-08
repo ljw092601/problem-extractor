@@ -1,0 +1,21 @@
+{
+  "source": "ocr",
+  "pages": [[16, 39]],
+  "label_regex": "^(\\d{1,2})$",
+  "label_min_h": 10,
+  "label_filter": "color",
+  "body": [90, 790],
+  "columns":      [{"x": [22, 290], "label_x": [28, 52]}, {"x": [296, 578], "label_x": [302, 330]}],
+  "columns_even": [{"x": [44, 312], "label_x": [50, 74]}, {"x": [318, 600], "label_x": [324, 352]}],
+  "drop_outliers": false,
+  "groups": false,
+  "manual_labels": [
+    {"page": 26, "col": 0, "y": 139, "num": 1},
+    {"page": 27, "col": 1, "y": 90, "num": 5},
+    {"page": 32, "col": 0, "y": 139, "num": 1},
+    {"page": 34, "col": 0, "y": 117, "num": 7}
+  ],
+  "top_pad": 8,
+  "bot_pad": 9,
+  "gap_stop": 20
+}

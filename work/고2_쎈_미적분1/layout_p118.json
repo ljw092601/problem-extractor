@@ -1,0 +1,12 @@
+{
+  "source": "ocr",
+  "pages": [[118, 118]],
+  "label_regex": "^((?:0\\d|1[0-3])\\d{2})(?![\\d\\-—.,])",
+  "body": [40, 792],
+  "columns":      [{"x": [30, 290], "label_x": [34, 52]},  {"x": [300, 562], "label_x": [298, 314]}],
+  "top_pad": 16,
+  "manual_labels": [],
+  "_note": "right column top: header fragment trimmed by hand",
+  "bot_pad": 14,
+  "gap_stop": 45
+}

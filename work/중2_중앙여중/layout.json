@@ -1,0 +1,12 @@
+{
+  "source": "ocr",
+  "pages": [[1, 8]],
+  "label_regex": "^([0-2]\\d)$",
+  "label_min_h": 11,
+  "drop_outliers": false,
+  "body": [88, 790],
+  "columns": [{"x": [30, 297], "label_x": [34, 82]}, {"x": [301, 575], "label_x": [302, 326]}],
+  "top_pad": 6,
+  "bot_pad": 8,
+  "gap_stop": 60
+}
